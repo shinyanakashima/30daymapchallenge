@@ -186,15 +186,15 @@
       "date": "2026-11-04",
       "theme": "Clusters",
       "meaning": "密集やまとまり、集まるものを描く",
-      "idea": "採用・公開済み。北海道の観光資源を地理的距離でクラスタリングするShabon Hokkaido。実際の交通アクセスや回遊実績とは区別する。",
+      "idea": "採用・公開済み。北海道の観光資源を地理的距離でクラスタリングし、まとまりをしゃぼん玉として描く「Kawaii clusters of Hokkaido」。実際の交通アクセスや回遊実績とは区別する。",
       "projects": [
         {
           "id": "clusters",
-          "title": "Shabon Hokkaido",
-          "description": "どこまでが近所？ 距離を変えると、観光地のまとまりがくっつき、分かれる。",
+          "title": "Kawaii clusters of Hokkaido",
+          "description": "How Near Is Near? 距離を変えると、観光地のまとまりがしゃぼん玉のようにくっつき、分かれる。",
           "status": "published",
           "thumbnail": "images/2026/works/clusters.jpg",
-          "thumbnailAlt": "Shabon Hokkaidoの実際のアプリ画面",
+          "thumbnailAlt": "Kawaii clusters of Hokkaidoの実際のアプリ画面",
           "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day4-clusters/",
           "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day4-clusters",
           "articleUrl": null,
@@ -207,19 +207,19 @@
           "updatedAt": "2026-11-04",
           "verifiedAt": "2026-11-04",
           "en": {
-            "title": "Shabon Hokkaido",
-            "description": "How near is near? Adjust the distance and watch clusters of tourism resources merge and separate.",
+            "title": "Kawaii clusters of Hokkaido",
+            "description": "How near is near? Change the distance and watch clusters of Hokkaido’s tourist spots merge and split like soap bubbles.",
             "tags": [
               "DBSCAN",
               "MapLibre"
             ],
-            "thumbnailAlt": "Screenshot of Shabon Hokkaido"
+            "thumbnailAlt": "Screenshot of Kawaii clusters of Hokkaido"
           }
         }
       ],
       "en": {
         "meaning": "Map concentrations, groups, and things that gather together.",
-        "idea": "Published: Shabon Hokkaido groups tourism resources by geographic distance. These groups do not represent actual transport access or observed visitor journeys."
+        "idea": "Published: Kawaii clusters of Hokkaido groups tourism resources by geographic distance and draws the groups as soap bubbles. These clusters do not represent actual transport access or observed visitor journeys."
       }
     },
     {
