@@ -11,5 +11,11 @@
   "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge",
   "officialUrl": "https://30daymapchallenge.com/",
   "footer": "地図をつくって、試して、発見する。",
-  "copyrightStart": 2026
+  "copyrightStart": 2026,
+  "en": {
+    "tagline": "One theme.\nA world of maps.",
+    "description": "Geospatial data. Small experiments. An evolving collection of interactive maps, inspired by 30 daily themes every November.",
+    "footer": "Make maps. Try things. Discover something."
+  },
+  "showPlans": false
 }

@@ -27,7 +27,7 @@ npm run build
 | `public/images/2026/works/` | 実作品のサムネイル |
 | `docs/2026-plan.md` | JSONから生成するチャレンジ一覧。直接編集しない |
 
-画面の「作品」「企画一覧」と会話用の生成一覧は同じデータを使います。公開済み作品はHTTP応答とREADMEを確認して登録しています。未取得サムネイルはテーマ名の代替表示です。リポジトリがあるだけで公開済みにはしません。
+作品と会話用の生成一覧は同じJSONを使います。企画一覧は公開UIでは非表示です。Day30終了後にsite.jsonのshowPlansをtrueにすると表示できます。公開済み作品はHTTP応答とREADMEを確認して登録しています。未取得サムネイルはテーマ名の代替表示です。リポジトリがあるだけで公開済みにはしません。
 
 ### 作品の追加と公開
 
@@ -56,3 +56,9 @@ GitHub Pages用のActionsを同梱しています。PagesのSourceをGitHub Acti
 ## ライセンス
 
 オリジナルのポータルコードはMIT。第三者のデータ・画像・フォントはそれぞれの利用条件に従います。掲載アプリ自体や元データを、このリポジトリのMITに変更するものではありません。詳細は[CREDITS.md](CREDITS.md)。
+
+## Language and appearance
+
+English is the default, including on Japanese-language browsers. The header switches between EN and 日本語. An explicit `?lang=en|ja` takes priority over the saved selection. English site/project translations live in each JSON file’s `en` fields; shared UI labels are in `src/ui.json`. The site uses a dark theme.
+
+作品名・説明・状態・閲覧リンクを中心に表示し、個人プロジェクトを強調する文言、アプローチ数、補足コピー、Aboutセクションは表示しません。
