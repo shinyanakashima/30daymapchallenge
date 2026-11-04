@@ -1,0 +1,424 @@
+{
+  "year": 2026,
+  "updatedAt": "2026-11-04",
+  "days": [
+    {
+      "day": 1,
+      "date": "2026-11-01",
+      "theme": "Points",
+      "meaning": "点を使って場所や分布を表す",
+      "idea": "北海道を題材とした3作品を公開。点描、駅の時系列、雪の暦を、それぞれ別の点表現で制作。",
+      "projects": [
+        {
+          "id": "dot-reveal",
+          "title": "何点で分かる？",
+          "description": "北海道の海岸線を、点から少しずつ。形を見分ける手がかりを探す。",
+          "status": "published",
+          "thumbnail": null,
+          "thumbnailAlt": null,
+          "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day1-dot-reveal/",
+          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day1-dot-reveal",
+          "articleUrl": null,
+          "videoUrl": null,
+          "tags": [
+            "Canvas",
+            "Natural Earth"
+          ],
+          "publishedAt": null,
+          "updatedAt": "2026-11-04",
+          "verifiedAt": "2026-11-04"
+        },
+        {
+          "id": "station-history",
+          "title": "駅のあった北海道",
+          "description": "1950–2025年。開業、改称、廃止をたどる、北海道の駅の時間地図。",
+          "status": "published",
+          "thumbnail": null,
+          "thumbnailAlt": null,
+          "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day1-station-history/",
+          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day1-station-history",
+          "articleUrl": null,
+          "videoUrl": null,
+          "tags": [
+            "MapLibre",
+            "国土数値情報"
+          ],
+          "publishedAt": null,
+          "updatedAt": "2026-11-04",
+          "verifiedAt": "2026-11-04"
+        },
+        {
+          "id": "snow-calendar",
+          "title": "冬は、北から来る？",
+          "description": "北海道22地点の初雪・積雪・根雪を、季節の暦で見比べる。",
+          "status": "published",
+          "thumbnail": null,
+          "thumbnailAlt": null,
+          "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day1-snow-calendar/",
+          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day1-snow-calendar",
+          "articleUrl": null,
+          "videoUrl": null,
+          "tags": [
+            "SVG",
+            "気象庁"
+          ],
+          "publishedAt": null,
+          "updatedAt": "2026-11-04",
+          "verifiedAt": "2026-11-04"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "date": "2026-11-02",
+      "theme": "Lines",
+      "meaning": "線でつながり・経路・流れなどを描く",
+      "idea": "bonds：日本全国の姉妹・友好・交流都市。公開アプリとREADMEを確認済み。",
+      "projects": [
+        {
+          "id": "bonds",
+          "title": "この線のはじまり",
+          "description": "日本と世界、街と街。姉妹・友好都市を結ぶ線と、その由来をたどる。",
+          "status": "published",
+          "thumbnail": null,
+          "thumbnailAlt": null,
+          "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day2-bonds/",
+          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day2-bonds",
+          "articleUrl": null,
+          "videoUrl": null,
+          "tags": [
+            "MapLibre",
+            "Wikidata"
+          ],
+          "publishedAt": null,
+          "updatedAt": "2026-11-04",
+          "verifiedAt": "2026-11-04"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "date": "2026-11-03",
+      "theme": "Polygons",
+      "meaning": "面・区域・輪郭を使って表現する",
+      "idea": "cutout：街の建物フットプリントを行政界で切り抜いて3D表示。公開アプリとREADMEを確認済み。",
+      "projects": [
+        {
+          "id": "cutout",
+          "title": "まちの型抜き",
+          "description": "街の建物を別の街の形で切り抜く。行政界で遊ぶ、3Dの型抜き。",
+          "status": "published",
+          "thumbnail": null,
+          "thumbnailAlt": null,
+          "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day3-cutout/",
+          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day3-cutout",
+          "articleUrl": null,
+          "videoUrl": null,
+          "tags": [
+            "DuckDB-Wasm",
+            "Flateau"
+          ],
+          "publishedAt": null,
+          "updatedAt": "2026-11-04",
+          "verifiedAt": "2026-11-04"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "date": "2026-11-04",
+      "theme": "Clusters",
+      "meaning": "密集やまとまり、集まるものを描く",
+      "idea": "採用・公開済み。北海道の観光資源を地理的距離でクラスタリングするShabon Hokkaido。実際の交通アクセスや回遊実績とは区別する。",
+      "projects": [
+        {
+          "id": "clusters",
+          "title": "Shabon Hokkaido",
+          "description": "どこまでが近所？ 距離を変えると、観光地のまとまりがくっつき、分かれる。",
+          "status": "published",
+          "thumbnail": "images/2026/works/clusters.jpg",
+          "thumbnailAlt": "Shabon Hokkaidoの実際のアプリ画面",
+          "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day4-clusters/",
+          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day4-clusters",
+          "articleUrl": null,
+          "videoUrl": null,
+          "tags": [
+            "DBSCAN",
+            "MapLibre"
+          ],
+          "publishedAt": null,
+          "updatedAt": "2026-11-04",
+          "verifiedAt": "2026-11-04"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "date": "2026-11-05",
+      "theme": "Senses: Sight",
+      "meaning": "視覚。何が、どこから、どう見えるか",
+      "idea": "採用・公開済み。2021年社会生活基本調査の映画鑑賞の行動者率を比較。視聴時間ではなく、コロナ禍を含む過去1年間の活動。",
+      "projects": [
+        {
+          "id": "senses-cinema",
+          "title": "映画を見る、日本を見る。",
+          "description": "映画館と、それ以外。47都道府県の映画鑑賞の地域差を比べる。",
+          "status": "published",
+          "thumbnail": "images/2026/works/senses-cinema.jpg",
+          "thumbnailAlt": "映画を見る、日本を見る。の実際のアプリ画面",
+          "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day5-senses-cinema/",
+          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day5-senses-cinema",
+          "articleUrl": null,
+          "videoUrl": null,
+          "tags": [
+            "React",
+            "three.js"
+          ],
+          "publishedAt": null,
+          "updatedAt": "2026-11-04",
+          "verifiedAt": "2026-11-04"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "date": "2026-11-06",
+      "theme": "Vintage",
+      "meaning": "古地図風の表現、または昔を題材にする",
+      "idea": "採用・公開済み。1987年5月21日のLandsat 5 TM画像を採用。最新READMEでは画像取得・RGB生成・候補比較の完了を確認。以前のUSGS登録メール待ちの記録は過去の状態。",
+      "projects": [
+        {
+          "id": "tokyo-zine",
+          "title": "TOKYO MAP",
+          "description": "1987年の衛星画像を、80年代の架空のカルチャー誌として眺める。",
+          "status": "published",
+          "thumbnail": "images/2026/works/tokyo-zine.jpg",
+          "thumbnailAlt": "TOKYO MAPの実際のアプリ画面",
+          "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day6-tokyo-zine/",
+          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day6-tokyo-zine",
+          "articleUrl": null,
+          "videoUrl": null,
+          "tags": [
+            "Landsat",
+            "MapLibre"
+          ],
+          "publishedAt": null,
+          "updatedAt": "2026-11-04",
+          "verifiedAt": "2026-11-04"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "date": "2026-11-07",
+      "theme": "10 minute map",
+      "meaning": "10分以内に地図を完成させる",
+      "idea": "採用・制作中。M5StickC Plus＋MiniEncoderCをBLEでブラウザへ接続。ファームウェアとWebアプリのREADMEあり。実機確認・10分制作の実演状況は未確認。",
+      "projects": [
+        {
+          "id": "mapwand",
+          "title": "MapWand",
+          "description": "回して、押して、10分で地図をつくる魔法の道具。",
+          "status": "building",
+          "thumbnail": null,
+          "thumbnailAlt": null,
+          "appUrl": null,
+          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day7-mapwand",
+          "articleUrl": null,
+          "videoUrl": null,
+          "tags": [
+            "M5StickC Plus",
+            "Web Bluetooth"
+          ],
+          "publishedAt": null,
+          "updatedAt": "2026-11-04",
+          "verifiedAt": "2026-11-04"
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "date": "2026-11-08",
+      "theme": "Utopia",
+      "meaning": "理想郷や、あり得る世界を描く",
+      "idea": "追加候補「理想の暮らしができそうな町」。LINKS空き家ファインダー・共通データ基盤を利用し、農地付き・古民家など希望条件に合う掲載物件を自治体単位で集計して表示。住みやすさ自体の評価とは区別。未採用・先行制作のため優先検討。",
+      "projects": []
+    },
+    {
+      "day": 9,
+      "date": "2026-11-09",
+      "theme": "Urban-rural",
+      "meaning": "都市と農村、その違いやつながりを描く",
+      "idea": "パラグアイ：街から農地、そして森へ。INE人口統計＋MapBiomas土地被覆。候補 追加候補：LINKSの農業ドローン活用・測量点検需要から、用途構成を二変量の色で表示。都市・農村の比較には人口密度等を別途組み合わせる。両案とも未採用。",
+      "projects": []
+    },
+    {
+      "day": 10,
+      "date": "2026-11-10",
+      "theme": "Prompting only",
+      "meaning": "プロンプトでAIに指示し、最初から最後まで地図を作る",
+      "idea": "未検討",
+      "projects": []
+    },
+    {
+      "day": 11,
+      "date": "2026-11-11",
+      "theme": "Senses: Sound",
+      "meaning": "音・聴覚。音風景や騒音などを地図にする",
+      "idea": "未検討・先行して企画を決める",
+      "projects": []
+    },
+    {
+      "day": 12,
+      "date": "2026-11-12",
+      "theme": "Power",
+      "meaning": "電力・エネルギー、または力・権力・影響力",
+      "idea": "パラグアイ：水力発電がつなぐ国境。発電所・電力のつながり。候補、データ要調査",
+      "projects": []
+    },
+    {
+      "day": 13,
+      "date": "2026-11-13",
+      "theme": "Interactions",
+      "meaning": "物事の相互作用、または操作できる地図",
+      "idea": "追加候補。LINKS「町くらべ」を発展させ、自治体選択に地図・特徴グラフ・類似地域が連動する。類似は掲載物件の属性によるもので、地理的近接を意味しない。未採用。",
+      "projects": []
+    },
+    {
+      "day": 14,
+      "date": "2026-11-14",
+      "theme": "Borgesian map",
+      "meaning": "領土と同じ大きさの地図が着想。詳細さを極め、地図と現実の境界を考える",
+      "idea": "未検討・先行して企画を決める",
+      "projects": []
+    },
+    {
+      "day": 15,
+      "date": "2026-11-15",
+      "theme": "Inside out",
+      "meaning": "内外・上下などを反転し、普段の見方をひっくり返す",
+      "idea": "未検討",
+      "projects": []
+    },
+    {
+      "day": 16,
+      "date": "2026-11-16",
+      "theme": "Collaborative map",
+      "meaning": "人と共同制作する。AIは共同制作者に数えない",
+      "idea": "未検討。共同制作する相手も必要",
+      "projects": []
+    },
+    {
+      "day": 17,
+      "date": "2026-11-17",
+      "theme": "Light & dark",
+      "meaning": "光と影、明暗を使って表現する",
+      "idea": "追加候補。LINKSの空域リスク・災害即応データから、夜間飛行を含む計画の割合を暗い地図上の光として表現。実飛行の明かり・夜景ではない。計数単位と分母を確認する。未採用。",
+      "projects": []
+    },
+    {
+      "day": 18,
+      "date": "2026-11-18",
+      "theme": "NULL",
+      "meaning": "公式説明は空欄。欠損・不在・空白などの解釈も可能",
+      "idea": "未検討",
+      "projects": []
+    },
+    {
+      "day": 19,
+      "date": "2026-11-19",
+      "theme": "Senses: Smell",
+      "meaning": "におい・嗅覚で感じるものを地図にする",
+      "idea": "未検討",
+      "projects": []
+    },
+    {
+      "day": 20,
+      "date": "2026-11-20",
+      "theme": "Hexagons",
+      "meaning": "六角形を使う。六角形メッシュでの集計など",
+      "idea": "追加候補。LINKS「混雑可視化」の現在の矩形グリッドをH3へ変更し、解像度による集中の見え方を比較。元データの位置粒度と既存集計で失われた情報を確認し、細かい六角形が高精度な飛行位置を意味する表示を避ける。未採用。",
+      "projects": []
+    },
+    {
+      "day": 21,
+      "date": "2026-11-21",
+      "theme": "OpenStreetMap",
+      "meaning": "OSMデータで地図を作る、またはOSMを編集する",
+      "idea": "未検討",
+      "projects": []
+    },
+    {
+      "day": 22,
+      "date": "2026-11-22",
+      "theme": "Projections",
+      "meaning": "地球を平面に表す投影法。その違いや歪みを扱う",
+      "idea": "未検討",
+      "projects": []
+    },
+    {
+      "day": 23,
+      "date": "2026-11-23",
+      "theme": "Senses: Taste",
+      "meaning": "味覚。食べ物・飲み物などを描く",
+      "idea": "公開データで再検討。「テレレと食の旅」は個人記録を前提とする案として外した",
+      "projects": []
+    },
+    {
+      "day": 24,
+      "date": "2026-11-24",
+      "theme": "Network",
+      "meaning": "道路・交通・人間関係などのネットワークを描く",
+      "idea": "追加候補「空き家でつながる日本」。LINKS「町くらべ」のコサイン類似度を使い、掲載物件の特徴が似た自治体を線で結ぶ。地理上の距離と属性の近さを対比。交通・交流の実績を表す線ではない。未採用。",
+      "projects": []
+    },
+    {
+      "day": 25,
+      "date": "2026-11-25",
+      "theme": "Is this a map?",
+      "meaning": "アートやデータ表現との境界を探り、どこまでが地図かを問う",
+      "idea": "追加候補。LINKS空き家データ基盤・町くらべを利用し、自治体を緯度経度ではなく掲載物件の特徴の類似性で配置する。通常の地理地図との切替で「何を近さと呼ぶか」を問う。未採用。",
+      "projects": []
+    },
+    {
+      "day": 26,
+      "date": "2026-11-26",
+      "theme": "Water",
+      "meaning": "河川・湖・海・流域など、水を扱う",
+      "idea": "パラグアイ：行政界ではなく流域で見る国。SIAGUAPYの川・流域・湿地など。候補",
+      "projects": []
+    },
+    {
+      "day": 27,
+      "date": "2026-11-27",
+      "theme": "New tool",
+      "meaning": "新しいツールを制作に取り入れて学ぶ",
+      "idea": "追加候補。LINKS空き家の正規化JSONをParquet化し、DuckDB-WasmやPorqueで地域を検索・可視化する。新しく試す技術を明確にする。物件座標は元データにないため、GeoParquetを使う場合は別途用意する自治体ジオメトリの粒度を明示。Porque自体の日への割当は未確定。",
+      "projects": []
+    },
+    {
+      "day": 28,
+      "date": "2026-11-28",
+      "theme": "Senses: Feeling",
+      "meaning": "感情や感覚など、抽象的な感じることを地図にする",
+      "idea": "公開データで再検討。旅の記憶案は外した",
+      "projects": []
+    },
+    {
+      "day": 29,
+      "date": "2026-11-29",
+      "theme": "Raster",
+      "meaning": "ピクセルで表現する。衛星画像・標高・土地被覆など",
+      "idea": "パラグアイ：森と農地の時間旅行。MapBiomasの年代比較・変化抽出。候補",
+      "projects": []
+    },
+    {
+      "day": 30,
+      "date": "2026-11-30",
+      "theme": "Pen & paper",
+      "meaning": "パソコンを閉じ、紙とペンで地図を作る",
+      "idea": "未検討",
+      "projects": []
+    }
+  ]
+}
