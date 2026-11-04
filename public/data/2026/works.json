@@ -226,7 +226,7 @@
       "day": 5,
       "date": "2026-11-05",
       "theme": "Senses: Sight",
-      "meaning": "視覚。何が、どこから、どう見えるか",
+      "meaning": "視覚。何かをどう見るか。たとえば可視領域（ある地点から見える範囲）を地図にする",
       "idea": "2021年社会生活基本調査から、都道府県別の映画鑑賞の行動者率を比べる。",
       "projects": [
         {
@@ -259,7 +259,7 @@
         }
       ],
       "en": {
-        "meaning": "Explore sight: what we see, where we see it, and how.",
+        "meaning": "How do you see something? Maybe map a viewshed.",
         "idea": "Compare movie-going rates by prefecture from the 2021 Survey on Time Use and Leisure Activities."
       }
     },
@@ -349,23 +349,23 @@
       "day": 8,
       "date": "2026-11-08",
       "theme": "Utopia",
-      "meaning": "理想郷や、あり得る世界を描く",
-      "idea": "理想の暮らしができそうな町。農地付き、古民家などの条件に合う空き家の掲載数を自治体ごとに見る。",
+      "meaning": "ありえるかもしれない何かの地図。理想郷に限らず「もしも」の世界",
+      "idea": "",
       "projects": [],
       "en": {
-        "meaning": "Map an ideal world, or a world that could exist.",
-        "idea": "Towns for an ideal life: count vacant-home listings that match conditions such as farmland or an old farmhouse, by municipality."
+        "meaning": "A map of something which could be.",
+        "idea": ""
       }
     },
     {
       "day": 9,
       "date": "2026-11-09",
       "theme": "Urban-rural",
-      "meaning": "都市と農村、その違いやつながりを描く",
+      "meaning": "都市か農村。都市と田園。どちらか一方でも、両方でもよい",
       "idea": "パラグアイ、街から農地、そして森へ。人口統計と土地被覆で都市と農村の移り変わりを見る。",
       "projects": [],
       "en": {
-        "meaning": "Explore cities, countryside, and their connections.",
+        "meaning": "Urban or rural. Cities and countryside.",
         "idea": "Paraguay from city to farmland to forest, using population statistics and land cover."
       }
     },
@@ -373,11 +373,11 @@
       "day": 10,
       "date": "2026-11-10",
       "theme": "Prompting only",
-      "meaning": "プロンプトでAIに指示し、最初から最後まで地図を作る",
+      "meaning": "チャット画面かコマンドラインで、AIに最初から最後まで地図を作らせる",
       "idea": "",
       "projects": [],
       "en": {
-        "meaning": "Create a map from start to finish by prompting AI.",
+        "meaning": "Make AI produce a map from start to finish in a chat window or on the command line.",
         "idea": ""
       }
     },
@@ -433,11 +433,11 @@
       "day": 15,
       "date": "2026-11-15",
       "theme": "Inside out",
-      "meaning": "内外・上下などを反転し、普段の見方をひっくり返す",
+      "meaning": "裏返し、逆さま。どこかがおかしい地図",
       "idea": "",
       "projects": [],
       "en": {
-        "meaning": "Turn a familiar view inside out or upside down.",
+        "meaning": "Inside out, upside down. Something on this map is not quite right.",
         "idea": ""
       }
     },
@@ -457,11 +457,11 @@
       "day": 17,
       "date": "2026-11-17",
       "theme": "Light & dark",
-      "meaning": "光と影、明暗を使って表現する",
+      "meaning": "見た目の効果で遊ぶ。光と影だけで何を地図にできるか",
       "idea": "夜間飛行を含むドローン飛行計画の割合を、暗い地図の上の光で表す。",
       "projects": [],
       "en": {
-        "meaning": "Use light, shadow and contrast.",
+        "meaning": "Play with visual effects. What can you map with just light and shadows?",
         "idea": "Show the share of drone flight plans that include night flights as light on a dark map."
       }
     },
@@ -589,11 +589,11 @@
       "day": 28,
       "date": "2026-11-28",
       "theme": "Senses: Feeling",
-      "meaning": "感情や感覚など、抽象的な感じることを地図にする",
+      "meaning": "五感シリーズでいちばん抽象的なお題。触覚とも感情とも読める「感じること」をどう地図にするか",
       "idea": "",
       "projects": [],
       "en": {
-        "meaning": "Explore feelings and other abstract sensations.",
+        "meaning": "The most abstract of the senses series. How would you map a feeling?",
         "idea": ""
       }
     },
