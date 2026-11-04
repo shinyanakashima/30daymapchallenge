@@ -362,11 +362,11 @@
       "date": "2026-11-09",
       "theme": "Urban-rural",
       "meaning": "都市、または農村。都市と田園。",
-      "idea": "パラグアイ、街から農地、そして森へ。人口統計と土地被覆で都市と農村の移り変わりを見る。",
+      "idea": "パラグアイ、街から農地、そして森へ。ある年の断面で、アスンシオンから離れるにつれて街、農地、森と移り変わる様子を、人口密度と土地被覆で描く。",
       "projects": [],
       "en": {
         "meaning": "Urban or rural. Cities and countryside.",
-        "idea": "Paraguay from city to farmland to forest, using population statistics and land cover."
+        "idea": "Paraguay from city to farmland to forest: a single-year cross-section moving out from Asunción, using population density and land cover."
       }
     },
     {
@@ -602,11 +602,11 @@
       "date": "2026-11-29",
       "theme": "Raster",
       "meaning": "ピクセルで何か面白いことをする。",
-      "idea": "パラグアイの森と農地の変化を、土地被覆の年次データでたどる。",
+      "idea": "パラグアイ、森と農地の時間旅行。同じ場所のピクセルが1985年から現在までに森から農地へ変わる様子を、土地被覆の年次データでたどる。",
       "projects": [],
       "en": {
         "meaning": "Do something cool with pixels.",
-        "idea": "Trace changes in Paraguay's forests and farmland through annual land-cover data."
+        "idea": "Paraguay through time: follow pixels turning from forest to farmland from 1985 to today with annual land-cover data."
       }
     },
     {
