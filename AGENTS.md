@@ -1,8 +1,8 @@
-# Maintaining this portal
+# Notes for maintaining this repository
 
-- The canonical challenge list is `public/data/<year>/works.json`. Do not hand-edit generated `docs/<year>-plan.md` or duplicate project data in HTML/TSX.
-- Put common presentation data in `public/data/site.json`; registered years and default year in `public/data/years.json`.
-- After changing data, run `npm run plan`, `npm test`, `npm run build`.
-- The ChatGPT planning Page is a derived snapshot of this data. When this session updates the plan, change JSON first, regenerate Markdown, then update the corresponding daily Page blocks from that generated content. Do not claim unattended sync. Keep private schedules, family details and internal planning context out of public JSON.
-- Preserve third-party data/image licenses and source attribution. MIT applies to original portal code; see CREDITS.md.
-- Use the repository-local Git identity configured by the user. Do not add AI co-author or assistant attribution.
+- `public/data/<year>/works.json` is the source for each year's themes and projects. Don't edit the generated `docs/<year>-plan.md` by hand, and don't copy project data into HTML or TSX.
+- Shared site text goes in `public/data/site.json`. Listed years and the default year go in `public/data/years.json`.
+- After changing data, run `npm run plan`, `npm test` and `npm run build`.
+- Keep personal schedules and other private notes out of the JSON files. They are public.
+- Keep the licenses and credits of third-party data and images. MIT covers the portal code only (see CREDITS.md).
+- Commit with the Git identity configured in this repository.

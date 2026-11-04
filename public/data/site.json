@@ -1,7 +1,7 @@
 {
   "title": "30DayMapChallenge",
-  "tagline": "ひとつのテーマから、地図の可能性を。",
-  "description": "地理空間データと、小さな実験。11月の30のテーマを通してつくる、インタラクティブな地図の作品集。",
+  "tagline": "毎日ひとつのテーマで、地図を作っています。",
+  "description": "#30DayMapChallenge に参加して作った地図をまとめています。データの出典は各作品のリポジトリに書いています。",
   "author": {
     "name": "Shinya Nakashima",
     "nameJa": "中島 慎也",
@@ -10,12 +10,12 @@
   },
   "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge",
   "officialUrl": "https://30daymapchallenge.com/",
-  "footer": "地図をつくって、試して、発見する。",
+  "footer": "#30DayMapChallenge 参加作品",
   "copyrightStart": 2026,
   "en": {
-    "tagline": "One theme.\nA world of maps.",
-    "description": "Geospatial data. Small experiments. An evolving collection of interactive maps, inspired by 30 daily themes every November.",
-    "footer": "Make maps. Try things. Discover something."
+    "tagline": "One theme a day,\nthirty maps in November.",
+    "description": "Maps I made for #30DayMapChallenge. Data sources are listed in each project's repository.",
+    "footer": "Entries for #30DayMapChallenge"
   },
   "showPlans": false
 }
