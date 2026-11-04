@@ -6,7 +6,7 @@
       "day": 1,
       "date": "2026-11-01",
       "theme": "Points",
-      "meaning": "点を使って場所や分布を表す",
+      "meaning": "定番のお題。点で地図を作る。",
       "idea": "北海道を題材とした3作品を公開。点描、駅の時系列、雪の暦を、それぞれ別の点表現で制作。",
       "projects": [
         {
@@ -95,7 +95,7 @@
         }
       ],
       "en": {
-        "meaning": "Use points to reveal places, patterns, and distributions.",
+        "meaning": "A map challenge classic. Map with points.",
         "idea": "Three published experiments with Hokkaido: a coastline revealed by points, railway stations through time, and the seasonal arrival of snow."
       }
     },
@@ -103,7 +103,7 @@
       "day": 2,
       "date": "2026-11-02",
       "theme": "Lines",
-      "meaning": "線でつながり・経路・流れなどを描く",
+      "meaning": "定番のお題。線で地図を作る。",
       "idea": "bonds：日本全国の姉妹・友好・交流都市。",
       "projects": [
         {
@@ -136,7 +136,7 @@
         }
       ],
       "en": {
-        "meaning": "Draw connections, routes, and flows with lines.",
+        "meaning": "A map challenge classic. Map with lines.",
         "idea": "Bonds: sister, friendship, and exchange-city connections within Japan and around the world."
       }
     },
@@ -144,7 +144,7 @@
       "day": 3,
       "date": "2026-11-03",
       "theme": "Polygons",
-      "meaning": "面・区域・輪郭を使って表現する",
+      "meaning": "定番のお題。面（ポリゴン）で地図を作る。",
       "idea": "cutout：街の建物フットプリントを行政界で切り抜いて3D表示。",
       "projects": [
         {
@@ -177,7 +177,7 @@
         }
       ],
       "en": {
-        "meaning": "Explore areas, boundaries, and shapes.",
+        "meaning": "A map challenge classic. Map with polygons.",
         "idea": "City Cutout: clip building footprints with a municipality-shaped cutter, then extrude the result in 3D."
       }
     },
@@ -185,7 +185,7 @@
       "day": 4,
       "date": "2026-11-04",
       "theme": "Clusters",
-      "meaning": "密集やまとまり、集まるものを描く",
+      "meaning": "何かのまとまり。ホットスポット、グループ、集まるもの。",
       "idea": "北海道の観光資源を距離でクラスタリングし、まとまりをしゃぼん玉で描く。",
       "projects": [
         {
@@ -218,7 +218,7 @@
         }
       ],
       "en": {
-        "meaning": "Map concentrations, groups, and things that gather together.",
+        "meaning": "Clusters of something. Hotspots, groups, things that gather together.",
         "idea": "Kawaii clusters of Hokkaido groups tourism resources by distance and draws each group as a soap bubble."
       }
     },
@@ -226,7 +226,7 @@
       "day": 5,
       "date": "2026-11-05",
       "theme": "Senses: Sight",
-      "meaning": "視覚。何かをどう見るか。たとえば可視領域（ある地点から見える範囲）を地図にする",
+      "meaning": "何かをどう見るか。たとえば可視領域を地図にする。",
       "idea": "2021年社会生活基本調査から、都道府県別の映画鑑賞の行動者率を比べる。",
       "projects": [
         {
@@ -259,7 +259,7 @@
         }
       ],
       "en": {
-        "meaning": "How do you see something? Maybe map a viewshed.",
+        "meaning": "How do you see something? Maybe map a viewshed?",
         "idea": "Compare movie-going rates by prefecture from the 2021 Survey on Time Use and Leisure Activities."
       }
     },
@@ -267,7 +267,7 @@
       "day": 6,
       "date": "2026-11-06",
       "theme": "Vintage",
-      "meaning": "古地図風の表現、または昔を題材にする",
+      "meaning": "昔の地図のような見た目にする。または、題材そのものを昔のものにする。",
       "idea": "1987年5月21日のLandsat 5 TM画像で作る、架空の80年代カルチャー誌。",
       "projects": [
         {
@@ -300,7 +300,7 @@
         }
       ],
       "en": {
-        "meaning": "Create a vintage look, or map a subject from the past.",
+        "meaning": "Make a map which looks like a historical map, or make the theme itself vintage.",
         "idea": "An imaginary 1980s culture magazine built around a Landsat 5 TM image from 21 May 1987."
       }
     },
@@ -308,7 +308,7 @@
       "day": 7,
       "date": "2026-11-07",
       "theme": "10 minute map",
-      "meaning": "10分以内に地図を完成させる",
+      "meaning": "10分以内に完成させる地図。",
       "idea": "M5StickC Plus と MiniEncoderC を BLE でブラウザにつなぎ、手元の操作で地図を作る。",
       "projects": [
         {
@@ -341,7 +341,7 @@
         }
       ],
       "en": {
-        "meaning": "Complete a map in no more than ten minutes.",
+        "meaning": "You have no more than 10 minutes to complete this map.",
         "idea": "Connect an M5StickC Plus and MiniEncoderC to the browser over BLE and make a map by hand."
       }
     },
@@ -349,7 +349,7 @@
       "day": 8,
       "date": "2026-11-08",
       "theme": "Utopia",
-      "meaning": "ありえるかもしれない何かの地図。理想郷に限らず「もしも」の世界",
+      "meaning": "ありえるかもしれない何かの地図。",
       "idea": "",
       "projects": [],
       "en": {
@@ -361,7 +361,7 @@
       "day": 9,
       "date": "2026-11-09",
       "theme": "Urban-rural",
-      "meaning": "都市か農村。都市と田園。どちらか一方でも、両方でもよい",
+      "meaning": "都市、または農村。都市と田園。",
       "idea": "パラグアイ、街から農地、そして森へ。人口統計と土地被覆で都市と農村の移り変わりを見る。",
       "projects": [],
       "en": {
@@ -373,7 +373,7 @@
       "day": 10,
       "date": "2026-11-10",
       "theme": "Prompting only",
-      "meaning": "チャット画面かコマンドラインで、AIに最初から最後まで地図を作らせる",
+      "meaning": "チャット画面かコマンドラインで、AIに最初から最後まで地図を作らせる。",
       "idea": "",
       "projects": [],
       "en": {
@@ -385,11 +385,11 @@
       "day": 11,
       "date": "2026-11-11",
       "theme": "Senses: Sound",
-      "meaning": "音・聴覚。音風景や騒音などを地図にする",
+      "meaning": "音をどう聞くか。音風景や騒音を地図にする。",
       "idea": "",
       "projects": [],
       "en": {
-        "meaning": "Map sound, soundscapes, or noise.",
+        "meaning": "How do you hear something? Map a soundscape, or noise pollution.",
         "idea": ""
       }
     },
@@ -397,11 +397,11 @@
       "day": 12,
       "date": "2026-11-12",
       "theme": "Power",
-      "meaning": "電力・エネルギー、または力・権力・影響力",
+      "meaning": "原子力のような電力、体の力、影響力、送電網。自由に解釈してよい。",
       "idea": "パラグアイ、水力発電がつなぐ国境。発電所と電力のつながりを描く。",
       "projects": [],
       "en": {
-        "meaning": "Explore energy, electricity, strength, or influence.",
+        "meaning": "Nuclear power, physical power, influence or a power grid. Read it the way you want.",
         "idea": "Hydropower across Paraguay's borders: power plants and the connections between them."
       }
     },
@@ -409,11 +409,11 @@
       "day": 13,
       "date": "2026-11-13",
       "theme": "Interactions",
-      "meaning": "物事の相互作用、または操作できる地図",
+      "meaning": "物事の相互作用。または、操作できる地図。",
       "idea": "町くらべ。自治体を選ぶと地図、特徴グラフ、似ている町が連動して切り替わる。",
       "projects": [],
       "en": {
-        "meaning": "Map interactions, or create an interactive map.",
+        "meaning": "Interactions between things, or an interactive map.",
         "idea": "Town comparison: picking a municipality updates the map, a feature chart and a list of similar towns."
       }
     },
@@ -421,11 +421,11 @@
       "day": 14,
       "date": "2026-11-14",
       "theme": "Borgesian map",
-      "meaning": "領土と同じ大きさの地図という発想から、細かさの限界や地図と現実の境目を考える",
+      "meaning": "細かすぎて領土そのものになる地図。ボルヘス「学問の厳密さについて」から。",
       "idea": "",
       "projects": [],
       "en": {
-        "meaning": "Explore a map so detailed that it becomes the territory.",
+        "meaning": "A map so detailed it becomes the territory. Inspired by Borges' On Exactitude in Science.",
         "idea": ""
       }
     },
@@ -433,7 +433,7 @@
       "day": 15,
       "date": "2026-11-15",
       "theme": "Inside out",
-      "meaning": "裏返し、逆さま。どこかがおかしい地図",
+      "meaning": "裏返し、逆さま。どこかがおかしい地図。",
       "idea": "",
       "projects": [],
       "en": {
@@ -445,11 +445,11 @@
       "day": 16,
       "date": "2026-11-16",
       "theme": "Collaborative map",
-      "meaning": "人と共同制作する。AIは共同制作者に数えない",
+      "meaning": "友人、同僚、知らない人と一緒に作る地図。AIは数えない。",
       "idea": "",
       "projects": [],
       "en": {
-        "meaning": "Make a map with another person. AI does not count as a collaborator.",
+        "meaning": "Make a map with a friend, colleague or stranger. AI doesn't count.",
         "idea": ""
       }
     },
@@ -457,7 +457,7 @@
       "day": 17,
       "date": "2026-11-17",
       "theme": "Light & dark",
-      "meaning": "見た目の効果で遊ぶ。光と影だけで何を地図にできるか",
+      "meaning": "見た目の効果で遊ぶ。光と影だけで何が地図にできるか。",
       "idea": "夜間飛行を含むドローン飛行計画の割合を、暗い地図の上の光で表す。",
       "projects": [],
       "en": {
@@ -469,11 +469,11 @@
       "day": 18,
       "date": "2026-11-18",
       "theme": "NULL",
-      "meaning": "公式の説明は空欄。欠損、不在、空白などをどう解釈してもよい",
+      "meaning": "公式の説明はなし。",
       "idea": "",
       "projects": [],
       "en": {
-        "meaning": "The official description is blank. Interpret it as absence, missing data or anything else.",
+        "meaning": "No description.",
         "idea": ""
       }
     },
@@ -481,11 +481,11 @@
       "day": 19,
       "date": "2026-11-19",
       "theme": "Senses: Smell",
-      "meaning": "におい・嗅覚で感じるものを地図にする",
+      "meaning": "鼻で感じるものをどう地図にするか。",
       "idea": "",
       "projects": [],
       "en": {
-        "meaning": "Map smells and the places we experience them.",
+        "meaning": "How do you map things your nose can sense?",
         "idea": ""
       }
     },
@@ -493,11 +493,11 @@
       "day": 20,
       "date": "2026-11-20",
       "theme": "Hexagons",
-      "meaning": "六角形を使う。六角形メッシュでの集計など",
+      "meaning": "六角形。",
       "idea": "ドローンの混雑度を H3 の六角形で集計し、解像度ごとの見え方を比べる。",
       "projects": [],
       "en": {
-        "meaning": "Explore hexagons and hexagonal spatial aggregation.",
+        "meaning": "Hexagons.",
         "idea": "Aggregate drone congestion into H3 hexagons and compare how it looks at different resolutions."
       }
     },
@@ -505,11 +505,11 @@
       "day": 21,
       "date": "2026-11-21",
       "theme": "OpenStreetMap",
-      "meaning": "OSMデータで地図を作る、またはOSMを編集する",
+      "meaning": "OpenStreetMap のデータで地図を作る。OSM を編集してもよい。",
       "idea": "",
       "projects": [],
       "en": {
-        "meaning": "Make a map with OpenStreetMap, or contribute to OSM.",
+        "meaning": "Make a map with OpenStreetMap data, or edit OSM.",
         "idea": ""
       }
     },
@@ -517,11 +517,11 @@
       "day": 22,
       "date": "2026-11-22",
       "theme": "Projections",
-      "meaning": "地球を平面に表す投影法。その違いや歪みを扱う",
+      "meaning": "球体を平面に表すさまざまな方法。",
       "idea": "",
       "projects": [],
       "en": {
-        "meaning": "Explore the ways we represent a globe on a flat surface.",
+        "meaning": "The different ways of representing a globe on a flat surface.",
         "idea": ""
       }
     },
@@ -529,11 +529,11 @@
       "day": 23,
       "date": "2026-11-23",
       "theme": "Senses: Taste",
-      "meaning": "味覚。食べ物・飲み物などを描く",
+      "meaning": "食べ物、飲み物など、味わえるもの。",
       "idea": "",
       "projects": [],
       "en": {
-        "meaning": "Map food, drinks, or other things we taste.",
+        "meaning": "Food, drink or something else you can taste.",
         "idea": ""
       }
     },
@@ -541,11 +541,11 @@
       "day": 24,
       "date": "2026-11-24",
       "theme": "Network",
-      "meaning": "道路・交通・人間関係などのネットワークを描く",
+      "meaning": "道路網、交通網、人のつながり、またはまったく別のネットワーク。",
       "idea": "空き家でつながる日本。掲載物件の特徴が似た自治体どうしを線で結ぶ。",
       "projects": [],
       "en": {
-        "meaning": "Explore transport, social connections, or another kind of network.",
+        "meaning": "Route network, transit network, human network or something completely different.",
         "idea": "Japan connected by vacant homes: link municipalities whose listings look alike."
       }
     },
@@ -553,11 +553,11 @@
       "day": 25,
       "date": "2026-11-25",
       "theme": "Is this a map?",
-      "meaning": "アートやデータ表現との境界を探り、どこまでが地図かを問う",
+      "meaning": "地図とアートやデータ表現を混ぜる。どこから地図で、どこまでが地図か。",
       "idea": "自治体を緯度経度ではなく、空き家の特徴の近さで並べる。地理の地図と切り替えて「近さ」を考える。",
       "projects": [],
       "en": {
-        "meaning": "Explore the boundary between maps, art, and data visualization.",
+        "meaning": "Blend your map with artwork or creative data visualization. When does something become a map, and when does it stop being one?",
         "idea": "Place municipalities by how similar their vacant-home listings are instead of by location, and switch back to the geographic map."
       }
     },
@@ -565,11 +565,11 @@
       "day": 26,
       "date": "2026-11-26",
       "theme": "Water",
-      "meaning": "河川・湖・海・流域など、水を扱う",
+      "meaning": "地球の表面の約71%を占める、水。",
       "idea": "パラグアイを行政界ではなく流域で見る。川、流域、湿地を描く。",
       "projects": [],
       "en": {
-        "meaning": "Map rivers, lakes, oceans, wetlands, or watersheds.",
+        "meaning": "About 71% of the Earth's surface. Water.",
         "idea": "See Paraguay by watershed instead of administrative boundary: rivers, catchments and wetlands."
       }
     },
@@ -577,11 +577,11 @@
       "day": 27,
       "date": "2026-11-27",
       "theme": "New tool",
-      "meaning": "新しいツールを制作に取り入れて学ぶ",
+      "meaning": "新しいツールを地図づくりに取り入れる。",
       "idea": "空き家データを Parquet にして、DuckDB-Wasm でブラウザ上で検索・可視化する。",
       "projects": [],
       "en": {
-        "meaning": "Learn by introducing a new tool into your mapping workflow.",
+        "meaning": "Try out a new tool in your mapmaking workflow.",
         "idea": "Convert vacant-home data to Parquet and query it in the browser with DuckDB-Wasm."
       }
     },
@@ -589,7 +589,7 @@
       "day": 28,
       "date": "2026-11-28",
       "theme": "Senses: Feeling",
-      "meaning": "五感シリーズでいちばん抽象的なお題。触覚とも感情とも読める「感じること」をどう地図にするか",
+      "meaning": "五感シリーズでいちばん抽象的なお題。感じることをどう地図にするか。",
       "idea": "",
       "projects": [],
       "en": {
@@ -601,11 +601,11 @@
       "day": 29,
       "date": "2026-11-29",
       "theme": "Raster",
-      "meaning": "ピクセルで表現する。衛星画像・標高・土地被覆など",
+      "meaning": "ピクセルで何か面白いことをする。",
       "idea": "パラグアイの森と農地の変化を、土地被覆の年次データでたどる。",
       "projects": [],
       "en": {
-        "meaning": "Work with pixels: imagery, elevation, land cover, and more.",
+        "meaning": "Do something cool with pixels.",
         "idea": "Trace changes in Paraguay's forests and farmland through annual land-cover data."
       }
     },
@@ -613,11 +613,11 @@
       "day": 30,
       "date": "2026-11-30",
       "theme": "Pen & paper",
-      "meaning": "パソコンを閉じ、紙とペンで地図を作る",
+      "meaning": "パソコンを閉じて、紙とペンで地図を作る。",
       "idea": "",
       "projects": [],
       "en": {
-        "meaning": "Step away from the computer and make a map with pen and paper.",
+        "meaning": "Close your laptop and make a map with pen and paper.",
         "idea": ""
       }
     }
