@@ -227,40 +227,11 @@
       "date": "2026-11-05",
       "theme": "Senses: Sight",
       "meaning": "何かをどう見るか。たとえば可視領域を地図にする。",
-      "idea": "2021年社会生活基本調査から、都道府県別の映画鑑賞の行動者率を比べる。",
-      "projects": [
-        {
-          "id": "senses-cinema",
-          "title": "映画を見る、日本を見る。",
-          "description": "映画館での鑑賞とそれ以外の鑑賞について、47都道府県の行動者率を比べる。",
-          "status": "published",
-          "thumbnail": "images/2026/works/senses-cinema.jpg",
-          "thumbnailAlt": "映画を見る、日本を見る。の画面",
-          "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day5-senses-cinema/",
-          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day5-senses-cinema",
-          "articleUrl": null,
-          "videoUrl": null,
-          "tags": [
-            "React",
-            "three.js"
-          ],
-          "publishedAt": null,
-          "updatedAt": "2026-11-04",
-          "verifiedAt": "2026-11-04",
-          "en": {
-            "title": "Watching Movies, Seeing Japan",
-            "description": "Compare how many people watch films, in cinemas and elsewhere, across Japan's 47 prefectures.",
-            "tags": [
-              "React",
-              "three.js"
-            ],
-            "thumbnailAlt": "Screenshot of Watching Movies, Seeing Japan"
-          }
-        }
-      ],
+      "idea": "可視領域の地図を新しく作る。",
+      "projects": [],
       "en": {
         "meaning": "How do you see something? Maybe map a viewshed?",
-        "idea": "Compare movie-going rates by prefecture from the 2021 Survey on Time Use and Leisure Activities."
+        "idea": "A new viewshed map."
       }
     },
     {
@@ -410,11 +381,40 @@
       "date": "2026-11-13",
       "theme": "Interactions",
       "meaning": "物事の相互作用。または、操作できる地図。",
-      "idea": "町くらべ。自治体を選ぶと地図、特徴グラフ、似ている町が連動して切り替わる。",
-      "projects": [],
+      "idea": "都道府県ごとに、映画館で見た人と映画館以外で見た人の割合を比べる。地図の選択、性別の切り替え、ホバーのグラフが連動する。",
+      "projects": [
+        {
+          "id": "senses-cinema",
+          "title": "映画を見る、日本を見る。",
+          "description": "映画館での鑑賞とそれ以外の鑑賞について、47都道府県の行動者率を比べる。",
+          "status": "published",
+          "thumbnail": "images/2026/works/senses-cinema.jpg",
+          "thumbnailAlt": "映画を見る、日本を見る。の画面",
+          "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day5-senses-cinema/",
+          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day5-senses-cinema",
+          "articleUrl": null,
+          "videoUrl": null,
+          "tags": [
+            "React",
+            "three.js"
+          ],
+          "publishedAt": null,
+          "updatedAt": "2026-11-04",
+          "verifiedAt": "2026-11-04",
+          "en": {
+            "title": "Watching Movies, Seeing Japan",
+            "description": "Compare how many people watch films, in cinemas and elsewhere, across Japan's 47 prefectures.",
+            "tags": [
+              "React",
+              "three.js"
+            ],
+            "thumbnailAlt": "Screenshot of Watching Movies, Seeing Japan"
+          }
+        }
+      ],
       "en": {
         "meaning": "Interactions between things, or an interactive map.",
-        "idea": "Town comparison: picking a municipality updates the map, a feature chart and a list of similar towns."
+        "idea": "Compare, by prefecture, how many people watch films in cinemas and elsewhere. Map selection, gender toggle and hover charts update together."
       }
     },
     {
