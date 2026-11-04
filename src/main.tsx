@@ -22,7 +22,7 @@ function WorkCard({project, day}:{project?:Project;day:Day}) { const {ui}=useLoc
  {(primary||project?.repoUrl)&&<div className="card-links">{primary?<External href={primary} className="primary-link">{project?.appUrl?ui.view:project?.videoUrl?ui.watch:ui.read}<Icon/></External>:<span/>}{project?.repoUrl&&<External href={project.repoUrl} className="code-link"><Icon kind="github"/>GitHub</External>}</div>}</div>
  </article>}
 function validateIndex(site:Site, years:Years){if(!site.title || !site.author?.name || !Array.isArray(years.years) || !years.years.every(y=>Number.isInteger(y)) || !years.years.includes(years.defaultYear))throw Error('config');}
-async function json<T>(url:string):Promise<T>{const r=await fetch(url);if(!r.ok)throw Error(`HTTP ${r.status}`);try{return await r.json()}catch{throw Error('invalidJson')}}
+async function json<T>(url:string):Promise<T>{const r=await fetch(url,{cache:'no-cache'});if(!r.ok)throw Error(`HTTP ${r.status}`);try{return await r.json()}catch{throw Error('invalidJson')}}
 function App(){const [lang,setLang]=useState<Language>(initialLanguage);const ui=messages[lang];const [rawSite,setSite]=useState<Site|null>(null),[years,setYears]=useState<Years|null>(null),[rawData,setData]=useState<YearData|null>(null),[error,setError]=useState(''),[notFound,setNotFound]=useState(false),[retry,setRetry]=useState(0),[filter,setFilter]=useState('all'),[selectedView,setView]=useState<'gallery'|'plan'>('gallery');
 useEffect(()=>{document.documentElement.lang=lang;try{localStorage.setItem('map-journal-language',lang)}catch{}},[lang]);
 useEffect(()=>{const onPop=()=>setLang(initialLanguage());window.addEventListener('popstate',onPop);return()=>window.removeEventListener('popstate',onPop)},[]);
