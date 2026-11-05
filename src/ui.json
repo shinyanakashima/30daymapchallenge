@@ -21,10 +21,9 @@
     "collection": "Collection",
     "challenge": "About the challenge",
     "selectYear": "Choose a year",
-    "atlas": "MAPS",
-    "daysPublished": "Days published",
-    "worksPublished": "Published maps",
-    "sectionTitle": "Maps",
+    "daysPublished": "days published",
+    "worksPublished": "maps",
+    "sectionTitle": "Contents",
     "viewMode": "Collection view",
     "gallery": "Maps",
     "plans": "Ideas & plans",
@@ -35,7 +34,11 @@
     "showAll": "Show all",
     "ideaPending": "Not decided yet.",
     "fetchError": "Could not retrieve the data.",
-    "switchLang": "Change language"
+    "switchLang": "Change language",
+    "config": "The site settings could not be read.",
+    "invalidYear": "The collection data is invalid.",
+    "invalidJson": "The settings file could not be read.",
+    "contents": "Contents"
   },
   "ja": {
     "newTab": "（別タブで開く）",
@@ -59,10 +62,9 @@
     "collection": "作品一覧",
     "challenge": "チャレンジについて",
     "selectYear": "年度を選択",
-    "atlas": "年の作品",
-    "daysPublished": "公開日数",
-    "worksPublished": "公開作品",
-    "sectionTitle": "作品一覧",
+    "daysPublished": "日分を公開",
+    "worksPublished": "作品",
+    "sectionTitle": "目次",
     "viewMode": "表示方法",
     "gallery": "作品",
     "plans": "企画一覧",
@@ -73,6 +75,10 @@
     "showAll": "すべて表示する",
     "ideaPending": "未定",
     "fetchError": "データを取得できませんでした。",
-    "switchLang": "言語を切り替える"
+    "switchLang": "言語を切り替える",
+    "config": "サイト設定を読み取れませんでした。",
+    "invalidYear": "年度データが正しくありません。",
+    "invalidJson": "設定ファイルの形式を読み取れませんでした。",
+    "contents": "目次"
   }
 }
