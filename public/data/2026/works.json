@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-05",
   "days": [
     {
       "day": 1,
@@ -227,11 +227,42 @@
       "date": "2026-11-05",
       "theme": "Senses: Sight",
       "meaning": "何かをどう見るか。たとえば可視領域を地図にする。",
-      "idea": "日高山脈の可視領域。2024年に国立公園となった日高山脈の主な山頂が、どこから見えるかを地形から計算する。",
-      "projects": [],
+      "idea": "日高山脈襟裳十勝国立公園の主な山頂15座について、地形の上でどこから見えるかを計算する。",
+      "projects": [
+        {
+          "id": "hidakasanmyaku",
+          "title": "日高山脈が見える場所マップ",
+          "description": "日本一広い国立公園、日高山脈襟裳十勝国立公園。主な山頂15座が地形の上でどこから見えるかを計算し、見える山の数で色分けした。",
+          "status": "published",
+          "thumbnail": "images/2026/works/hidakasanmyaku.jpg",
+          "thumbnailAlt": "日高山脈が見える場所マップの画面",
+          "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day5-hidakasanmyaku/",
+          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day5-hidakasanmyaku",
+          "articleUrl": null,
+          "videoUrl": null,
+          "tags": [
+            "GDAL",
+            "MapLibre",
+            "国土地理院"
+          ],
+          "publishedAt": "2026-11-05",
+          "updatedAt": "2026-11-05",
+          "verifiedAt": "2026-11-05",
+          "en": {
+            "title": "Where You Can See the Hidaka Mountains",
+            "description": "Hidakasanmyaku-Erimo-Tokachi National Park is Japan's largest national park. This map shows where its 15 main peaks can be seen from, based on terrain, colored by how many are visible.",
+            "tags": [
+              "GDAL",
+              "MapLibre",
+              "GSI Japan"
+            ],
+            "thumbnailAlt": "Screenshot of Where You Can See the Hidaka Mountains"
+          }
+        }
+      ],
       "en": {
         "meaning": "How do you see something? Maybe map a viewshed?",
-        "idea": "A viewshed of the Hidaka Mountains, which became a national park in 2024: where their main peaks can be seen from, based on terrain."
+        "idea": "Calculate where the 15 main peaks of Hidakasanmyaku-Erimo-Tokachi National Park can be seen from, based on terrain."
       }
     },
     {
@@ -384,14 +415,14 @@
       "idea": "都道府県ごとに、映画館で見た人と映画館以外で見た人の割合を比べる。地図の選択、性別の切り替え、ホバーのグラフが連動する。",
       "projects": [
         {
-          "id": "senses-cinema",
+          "id": "cinema",
           "title": "映画を見る、日本を見る。",
           "description": "映画館での鑑賞とそれ以外の鑑賞について、47都道府県の行動者率を比べる。",
           "status": "published",
-          "thumbnail": "images/2026/works/senses-cinema.jpg",
+          "thumbnail": "images/2026/works/cinema.jpg",
           "thumbnailAlt": "映画を見る、日本を見る。の画面",
-          "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day5-senses-cinema/",
-          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day5-senses-cinema",
+          "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day13-cinema/",
+          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day13-cinema",
           "articleUrl": null,
           "videoUrl": null,
           "tags": [
@@ -399,8 +430,8 @@
             "three.js"
           ],
           "publishedAt": null,
-          "updatedAt": "2026-11-04",
-          "verifiedAt": "2026-11-04",
+          "updatedAt": "2026-11-05",
+          "verifiedAt": "2026-11-05",
           "en": {
             "title": "Watching Movies, Seeing Japan",
             "description": "Compare how many people watch films, in cinemas and elsewhere, across Japan's 47 prefectures.",
