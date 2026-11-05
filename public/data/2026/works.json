@@ -10,31 +10,31 @@
       "idea": "北海道を題材とした3作品を公開。点描、駅の時系列、雪の暦を、それぞれ別の点表現で制作。",
       "projects": [
         {
-          "id": "dot-reveal",
-          "title": "何点で分かる？",
-          "description": "北海道の海岸線を点で少しずつ描き、何点目で北海道だと分かるかを試す。",
+          "id": "snow-calendar",
+          "title": "冬は、北から来る？",
+          "description": "北海道22地点の初雪、積雪、根雪の時期を並べて比べる。",
           "status": "published",
-          "thumbnail": "images/2026/works/dot-reveal.jpg",
-          "thumbnailAlt": "何点で分かる？の画面",
-          "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day1-dot-reveal/",
-          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day1-dot-reveal",
+          "thumbnail": "images/2026/works/snow-calendar.jpg",
+          "thumbnailAlt": "冬は、北から来る？の画面",
+          "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day1-snow-calendar/",
+          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day1-snow-calendar",
           "articleUrl": null,
           "videoUrl": null,
           "tags": [
-            "Canvas",
-            "Natural Earth"
+            "SVG",
+            "気象庁"
           ],
           "publishedAt": null,
           "updatedAt": "2026-11-04",
           "verifiedAt": "2026-11-04",
           "en": {
-            "title": "How Many Points?",
-            "description": "Draw Hokkaido's coastline point by point and see how many points it takes to recognize it.",
+            "title": "Does Winter Come from the North?",
+            "description": "Compare the dates of first snow, snow cover and lasting snow at 22 sites in Hokkaido.",
             "tags": [
-              "Canvas",
-              "Natural Earth"
+              "SVG",
+              "Japan Meteorological Agency"
             ],
-            "thumbnailAlt": "Screenshot of How Many Points?"
+            "thumbnailAlt": "Screenshot of Does Winter Come from the North?"
           }
         },
         {
@@ -66,31 +66,31 @@
           }
         },
         {
-          "id": "snow-calendar",
-          "title": "冬は、北から来る？",
-          "description": "北海道22地点の初雪、積雪、根雪の時期を並べて比べる。",
+          "id": "dot-reveal",
+          "title": "何点で分かる？",
+          "description": "北海道の海岸線を点で少しずつ描き、何点目で北海道だと分かるかを試す。",
           "status": "published",
-          "thumbnail": "images/2026/works/snow-calendar.jpg",
-          "thumbnailAlt": "冬は、北から来る？の画面",
-          "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day1-snow-calendar/",
-          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day1-snow-calendar",
+          "thumbnail": "images/2026/works/dot-reveal.jpg",
+          "thumbnailAlt": "何点で分かる？の画面",
+          "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day1-dot-reveal/",
+          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day1-dot-reveal",
           "articleUrl": null,
           "videoUrl": null,
           "tags": [
-            "SVG",
-            "気象庁"
+            "Canvas",
+            "Natural Earth"
           ],
           "publishedAt": null,
           "updatedAt": "2026-11-04",
           "verifiedAt": "2026-11-04",
           "en": {
-            "title": "Does Winter Come from the North?",
-            "description": "Compare the dates of first snow, snow cover and lasting snow at 22 sites in Hokkaido.",
+            "title": "How Many Points?",
+            "description": "Draw Hokkaido's coastline point by point and see how many points it takes to recognize it.",
             "tags": [
-              "SVG",
-              "Japan Meteorological Agency"
+              "Canvas",
+              "Natural Earth"
             ],
-            "thumbnailAlt": "Screenshot of Does Winter Come from the North?"
+            "thumbnailAlt": "Screenshot of How Many Points?"
           }
         }
       ],
@@ -122,8 +122,8 @@
             "Wikidata"
           ],
           "publishedAt": null,
-          "updatedAt": "2026-11-04",
-          "verifiedAt": "2026-11-04",
+          "updatedAt": "2026-11-05",
+          "verifiedAt": "2026-11-05",
           "en": {
             "title": "Where These Lines Began",
             "description": "Lines between Japanese municipalities and their sister and friendship cities, with how each partnership started.",
