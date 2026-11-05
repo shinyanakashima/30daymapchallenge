@@ -52,7 +52,6 @@ function DayRow({day}:{day:Day}) {
       <span className="day-number" aria-hidden="true">{pad(day.day)}</span>
       <div className="day-theme">
         <h3 id={`day-${day.day}-title`}><span className="sr-only">Day {day.day} </span>{day.theme}</h3>
-        <p>{day.meaning}</p>
       </div>
       {!day.projects.length&&<span className="status planned">{ui.planned}</span>}
     </div>
@@ -78,7 +77,6 @@ function App(){
 
   const view=site.showPlans?selectedView:'gallery';const count=stats(data);const days=visibleDays(data,filter) as Day[];
   const filters:[string,string][]=[['all',ui.all],['published',ui.published],['building',ui.building],['planned',ui.planned]];
-  const tagline=lang==='en'?site.tagline.split('\n'):[site.tagline.split('、')[0]+'、',site.tagline.split('、').slice(1).join('、')];
 
   return <LocaleContext.Provider value={{lang,ui}}>
     <a href="#collection" className="skip-link">{ui.skip}</a>
@@ -95,13 +93,8 @@ function App(){
     </header>
     <main>
       <section className="hero">
-        <p className="label-row"><span className="label">No.{data.year}</span><span>NOVEMBER 1–30 · 30 DAYS, 30 THEMES</span></p>
         <h1 className="mega" aria-label={site.title}><span>30DAY</span><span className="accent">MAP</span><span>CHALLENGE</span></h1>
         <div className="hero-foot">
-          <div className="hero-copy">
-            <p className="tagline">{tagline[0]}<br/>{tagline.slice(1).join(' ')}</p>
-            <p className="description">{site.description}</p>
-          </div>
           <div className="tally">
             <div className="tally-main"><strong>{pad(count.days)}</strong><span>/30<br/>{ui.daysPublished}</span></div>
             <div className="tally-sub"><span><b>{pad(count.published)}</b> {ui.worksPublished}</span><span><b>{pad(count.building)}</b> {ui.building}</span></div>
@@ -122,7 +115,7 @@ function App(){
           :<div className="plan-list">{days.map(d=><article key={d.day} id={`day-${d.day}`} className="plan-row"><span className="plan-day">{pad(d.day)}</span><div><h3>{d.theme}</h3><p className="plan-meaning">{d.meaning}</p><p>{d.idea || ui.ideaPending}</p></div></article>)}</div>}
       </section>
     </main>
-    <footer className="site-footer"><span>© {site.copyrightStart} {site.author.name}</span><span>{site.footer}</span><External href={site.officialUrl}>{ui.challenge} ↗</External><External href={site.repoUrl}>Source on GitHub ↗</External></footer>
+    <footer className="site-footer"><span>© {site.copyrightStart} {site.author.name}</span><External href={site.officialUrl}>{ui.challenge} ↗</External><External href={site.repoUrl}>Source on GitHub ↗</External></footer>
   </LocaleContext.Provider>;
 }
 createRoot(document.getElementById('root')!).render(<App/>);
