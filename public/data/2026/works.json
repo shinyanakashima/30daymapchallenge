@@ -7,7 +7,7 @@
       "date": "2026-11-01",
       "theme": "Points",
       "meaning": "定番のお題。点で地図を作る。",
-      "idea": "北海道を題材とした3作品を公開。点描、駅の時系列、雪の暦を、それぞれ別の点表現で制作。",
+      "idea": "北海道を題材に、点描、駅の時系列、雪の暦の3作品を、それぞれ別の点の表現で作る。",
       "projects": [
         {
           "id": "snow-calendar",
@@ -96,7 +96,7 @@
       ],
       "en": {
         "meaning": "A map challenge classic. Map with points.",
-        "idea": "Three published experiments with Hokkaido: a coastline revealed by points, railway stations through time, and the seasonal arrival of snow."
+        "idea": "Three maps of Hokkaido that use points in different ways: a coastline revealed point by point, railway stations through time and the seasonal arrival of snow."
       }
     },
     {
@@ -104,7 +104,7 @@
       "date": "2026-11-02",
       "theme": "Lines",
       "meaning": "定番のお題。線で地図を作る。",
-      "idea": "bonds：日本全国の姉妹・友好・交流都市。",
+      "idea": "日本の自治体と、国内外の姉妹・友好・交流都市を線で結ぶ。",
       "projects": [
         {
           "id": "bonds",
@@ -137,7 +137,7 @@
       ],
       "en": {
         "meaning": "A map challenge classic. Map with lines.",
-        "idea": "Bonds: sister, friendship, and exchange-city connections within Japan and around the world."
+        "idea": "Lines between Japanese municipalities and their sister, friendship and exchange cities in Japan and abroad."
       }
     },
     {
@@ -145,7 +145,7 @@
       "date": "2026-11-03",
       "theme": "Polygons",
       "meaning": "定番のお題。面（ポリゴン）で地図を作る。",
-      "idea": "cutout：街の建物フットプリントを行政界で切り抜いて3D表示。",
+      "idea": "街の建物の形を自治体の境界で切り抜き、3Dで表示する。",
       "projects": [
         {
           "id": "cutout",
@@ -178,7 +178,7 @@
       ],
       "en": {
         "meaning": "A map challenge classic. Map with polygons.",
-        "idea": "City Cutout: clip building footprints with a municipality-shaped cutter, then extrude the result in 3D."
+        "idea": "Cut building footprints with a municipality boundary and show them in 3D."
       }
     },
     {
@@ -311,7 +311,7 @@
       "date": "2026-11-07",
       "theme": "10 minute map",
       "meaning": "10分以内に完成させる地図。",
-      "idea": "M5StickC Plus＋Hat Mini EncoderCをWeb BluetoothでつなぐMapWand。実装・実機確認済み。画面やキーボードでも編集でき、PNGと再現用JSONを保存する。",
+      "idea": "M5StickC Plus と Hat Mini EncoderC を Web Bluetooth でつなぎ、ダイヤルで地図を作る。画面やキーボードでも操作でき、PNG と設定の JSON を保存できる。",
       "projects": [
         {
           "id": "mapwand",
@@ -344,7 +344,7 @@
       ],
       "en": {
         "meaning": "You have no more than 10 minutes to complete this map.",
-        "idea": "MapWand is implemented and hardware-tested: connect an M5StickC Plus and Hat Mini EncoderC over Web Bluetooth, or edit with on-screen controls and a keyboard. Export a PNG and reusable settings JSON."
+        "idea": "Connect an M5StickC Plus and Hat Mini EncoderC over Web Bluetooth and make a map with the dial. On-screen controls and the keyboard also work, and the map can be saved as a PNG with a settings JSON."
       }
     },
     {
@@ -352,7 +352,7 @@
       "date": "2026-11-08",
       "theme": "Utopia",
       "meaning": "ありえるかもしれない何かの地図。",
-      "idea": "採用・公開済み。使用目的のない空き家に人が移住したら、都道府県の人口はいつの水準に戻るか。海外・東京・大都市からの3シナリオと入居率を切り替え、国勢調査年の層へ都道府県が上下する3D地図。将来予測ではなく仮定に基づく試算。",
+      "idea": "使用目的のない空き家に人が移住したら、都道府県の人口はいつの水準に戻るか。移住元（海外・東京・大都市）と入居率を切り替えると、都道府県が国勢調査年の層を上下する3D地図。仮定に基づく試算で、将来予測ではない。",
       "projects": [
         {
           "id": "akiya",
@@ -385,7 +385,7 @@
       ],
       "en": {
         "meaning": "A map of something which could be.",
-        "idea": "Published: a 3D map of the census year each prefecture would return to if people moved into unused vacant homes. Adjust occupancy and compare arrivals from abroad, Tokyo or six big-city prefectures. A hypothetical scenario, not a forecast."
+        "idea": "A 3D map of the census year each prefecture would return to if people moved into unused vacant homes. Switch where people come from (abroad, Tokyo or six big-city prefectures) and the occupancy rate. A hypothetical calculation, not a forecast."
       }
     },
     {
@@ -393,11 +393,11 @@
       "date": "2026-11-09",
       "theme": "Urban-rural",
       "meaning": "都市、または農村。都市と田園。",
-      "idea": "パラグアイのYguazú地区を対象に、2022年国勢調査の都市・農村区分を2色で描き、それぞれの人口を示す。INEの統計用境界と人口表を利用し、GeoParquet化を検討。農村人口の比率を面積比率と混同しない。",
+      "idea": "パラグアイの Yguazú 地区について、2022年国勢調査の都市・農村の区分を2色で描き、それぞれの人口を示す。INE の統計用の境界と人口表を使い、人口の割合と面積の割合を分けて示す。",
       "projects": [],
       "en": {
         "meaning": "Urban or rural. Cities and countryside.",
-        "idea": "Map urban and rural census areas in Yguazú, Paraguay in two colors, with their 2022 populations. Use INE census cartography and population tables; consider GeoParquet. Keep population shares distinct from land-area shares."
+        "idea": "Map urban and rural census areas in Yguazú, Paraguay in two colors with their 2022 populations, using INE census cartography and population tables. Population shares are shown separately from land-area shares."
       }
     },
     {
@@ -405,11 +405,11 @@
       "date": "2026-11-10",
       "theme": "Prompting only",
       "meaning": "チャット画面かコマンドラインで、AIに最初から最後まで地図を作らせる。",
-      "idea": "AIとの対話と地図の変化を振り返る作品。各工程の同一サイズの画面キャプチャをZarrのstep×height×width×RGBA配列に保存し、対話ログJSONとstep IDで結ぶ。タイムラインで試行錯誤を再生する。地図の題材は未定。",
+      "idea": "AI との対話と、それに合わせて変わっていく地図を振り返る作品。工程ごとの画面を Zarr 配列に保存し、対話ログと結んでタイムラインで再生する。",
       "projects": [],
       "en": {
         "meaning": "Make AI produce a map from start to finish in a chat window or on the command line.",
-        "idea": "Replay an AI map-making conversation and its evolving maps. Store fixed-size screenshots in a Zarr array indexed by step, height, width and RGBA, linked to a conversation-log JSON by step ID. The map subject is still undecided."
+        "idea": "Replay an AI map-making conversation alongside the map as it changes. Screens from each step are stored in a Zarr array, linked to the conversation log and played back on a timeline."
       }
     },
     {
