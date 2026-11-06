@@ -8,7 +8,7 @@ Theme names are from [30DayMapChallenge](https://30daymapchallenge.com/#2026-the
 
 ## Screenshots
 
-All screenshots are of my own apps, retrieved on 2026-11-04 (Day 5 on 2026-11-05), resized to 800×600 and saved as JPEG. Each app's README has the full data credits.
+All screenshots are of my own apps, retrieved on the dates noted below or 2026-11-04 (Day 5 on 2026-11-05), resized to fit 800×600 and saved as JPEG. Each app's README has the full data credits.
 
 | File | Source | Data in the image |
 | --- | --- | --- |
@@ -19,8 +19,10 @@ All screenshots are of my own apps, retrieved on 2026-11-04 (Day 5 on 2026-11-05
 | `cutout.jpg` | [day3-cutout](https://github.com/shinyanakashima/30daymapchallenge-2026day3-cutout/blob/main/docs/screenshot.png) | PLATEAU / Flateau, MLIT N03 (CC BY 4.0), GSI Tiles |
 | `clusters.jpg` | [live app](https://shinyanakashima.github.io/30daymapchallenge-2026day4-clusters/) | MLIT National Land Numerical Information, tourism resources 2010/2014 (noncommercial); Sentinel-2 cloudless - https://s2maps.eu by EOX IT Services GmbH (Contains modified Copernicus Sentinel data 2016), CC BY 4.0; GSI Vector Tiles |
 | `hidakasanmyaku.jpg` | [day5-hidakasanmyaku](https://github.com/shinyanakashima/30daymapchallenge-2026day5-hidakasanmyaku/blob/main/docs/screenshot.png) | GSI Elevation Tiles (DEM10B) and Major Mountain Elevations; national park boundary from the Ministry of the Environment Biodiversity Map, processed |
-| `tokyo-zine.jpg` | `30daymapchallenge-2026day6-tokyo-zine/docs/screen-desktop.png` | USGS/NASA Landsat 5 TM, 1987-05-21 (public domain) |
+| `tokyo-zine.jpg` | `30daymapchallenge-2026day6-tokyo-zine/docs/screen-desktop-web97.png (retrieved 2026-11-06)` | USGS/NASA Landsat 5 TM, 1987-05-21 (public domain) |
 | `cinema.jpg` | `30daymapchallenge-2026day13-cinema/public/og.png` | Statistics Bureau of Japan, 2021 Survey on Time Use and Leisure Activities |
+
+| `akiya.jpg` | `30daymapchallenge-2026day8-akiya/docs/screenshot.png`, retrieved 2026-11-06 | Statistics Bureau of Japan / e-Stat: Housing and Land Survey 2023, Population Census 2020 and 1920–2020 time series, 2025 preliminary population; processed MLIT N03 administrative boundaries 2025 (terms compatible with CC BY 4.0) |
 
 ## Fonts and packages
 

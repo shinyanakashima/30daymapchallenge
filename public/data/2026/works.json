@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "updatedAt": "2026-11-05",
+  "updatedAt": "2026-11-06",
   "days": [
     {
       "day": 1,
@@ -270,12 +270,12 @@
       "date": "2026-11-06",
       "theme": "Vintage",
       "meaning": "昔の地図のような見た目にする。または、題材そのものを昔のものにする。",
-      "idea": "1987年5月21日のLandsat 5 TM画像で作る、架空の80年代カルチャー誌。",
+      "idea": "1987年5月21日の東京のLandsat画像を、雑誌・パソコン通信・初期Webなど9種類のデザインで眺める。",
       "projects": [
         {
           "id": "tokyo-zine",
           "title": "TOKYO MAP",
-          "description": "1987年の東京の衛星画像を、80年代の架空のカルチャー誌の誌面に仕立てた。",
+          "description": "1987年の東京を、雑誌からBBS、1997年のホームページまで、9つの懐かしいデザインで眺める。",
           "status": "published",
           "thumbnail": "images/2026/works/tokyo-zine.jpg",
           "thumbnailAlt": "TOKYO MAPの画面",
@@ -288,11 +288,11 @@
             "MapLibre"
           ],
           "publishedAt": null,
-          "updatedAt": "2026-11-04",
-          "verifiedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
+          "verifiedAt": "2026-11-06",
           "en": {
             "title": "TOKYO MAP",
-            "description": "A 1987 satellite image of Tokyo laid out as pages of an imaginary 1980s culture magazine.",
+            "description": "Tokyo in 1987, seen through nine nostalgic designs spanning magazines, BBS terminals and early websites.",
             "tags": [
               "Landsat",
               "MapLibre"
@@ -303,7 +303,7 @@
       ],
       "en": {
         "meaning": "Make a map which looks like a historical map, or make the theme itself vintage.",
-        "idea": "An imaginary 1980s culture magazine built around a Landsat 5 TM image from 21 May 1987."
+        "idea": "Explore a Landsat image of Tokyo from 21 May 1987 through nine magazine, BBS and early-web designs."
       }
     },
     {
@@ -311,16 +311,16 @@
       "date": "2026-11-07",
       "theme": "10 minute map",
       "meaning": "10分以内に完成させる地図。",
-      "idea": "M5StickC Plus と MiniEncoderC を BLE でブラウザにつなぎ、手元の操作で地図を作る。",
+      "idea": "M5StickC Plus＋Hat Mini EncoderCをWeb BluetoothでつなぐMapWand。実装・実機確認済み。画面やキーボードでも編集でき、PNGと再現用JSONを保存する。",
       "projects": [
         {
           "id": "mapwand",
           "title": "MapWand",
           "description": "M5StickC のダイヤルを回して押すだけで、10分で地図を作るためのコントローラー。",
-          "status": "building",
+          "status": "published",
           "thumbnail": null,
           "thumbnailAlt": null,
-          "appUrl": null,
+          "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day7-mapwand/",
           "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day7-mapwand",
           "articleUrl": null,
           "videoUrl": null,
@@ -329,8 +329,8 @@
             "Web Bluetooth"
           ],
           "publishedAt": null,
-          "updatedAt": "2026-11-04",
-          "verifiedAt": "2026-11-04",
+          "updatedAt": "2026-11-06",
+          "verifiedAt": "2026-11-06",
           "en": {
             "title": "MapWand",
             "description": "A dial controller built on M5StickC for making a map in ten minutes.",
@@ -344,7 +344,7 @@
       ],
       "en": {
         "meaning": "You have no more than 10 minutes to complete this map.",
-        "idea": "Connect an M5StickC Plus and MiniEncoderC to the browser over BLE and make a map by hand."
+        "idea": "MapWand is implemented and hardware-tested: connect an M5StickC Plus and Hat Mini EncoderC over Web Bluetooth, or edit with on-screen controls and a keyboard. Export a PNG and reusable settings JSON."
       }
     },
     {
@@ -352,11 +352,40 @@
       "date": "2026-11-08",
       "theme": "Utopia",
       "meaning": "ありえるかもしれない何かの地図。",
-      "idea": "空き家に移住したら、街はいつに戻れるか？ 使用目的のない空き家に人が住んだ場合に各都道府県の人口が何年の水準に戻るかを、人が海外から来る場合、東京から来る場合、大都市から来る場合の3枚の地図で比べる。",
-      "projects": [],
+      "idea": "採用・公開済み。使用目的のない空き家に人が移住したら、都道府県の人口はいつの水準に戻るか。海外・東京・大都市からの3シナリオと入居率を切り替え、国勢調査年の層へ都道府県が上下する3D地図。将来予測ではなく仮定に基づく試算。",
+      "projects": [
+        {
+          "id": "akiya",
+          "title": "空き家に移住したら、あの頃に戻れるか？",
+          "description": "空き家の入居率と移住元を変えると、都道府県が過去の人口水準を示す年の層へ上下する。",
+          "status": "published",
+          "thumbnail": "images/2026/works/akiya.jpg",
+          "thumbnailAlt": "空き家の移住シナリオを国勢調査年の層で示す3D地図",
+          "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day8-akiya/",
+          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day8-akiya",
+          "articleUrl": null,
+          "videoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day8-akiya/blob/main/media/day8-akiya-demo-en.mp4",
+          "tags": [
+            "e-Stat",
+            "3D"
+          ],
+          "publishedAt": null,
+          "updatedAt": "2026-11-06",
+          "verifiedAt": "2026-11-06",
+          "en": {
+            "title": "If people moved into Japan’s akiya, what year would each place go back to?",
+            "description": "Change occupancy and where people move from, and watch prefectures rise or fall through layers of past census years.",
+            "thumbnailAlt": "3D census-year layers comparing vacant-home migration scenarios",
+            "tags": [
+              "e-Stat",
+              "3D"
+            ]
+          }
+        }
+      ],
       "en": {
         "meaning": "A map of something which could be.",
-        "idea": "If people moved into empty homes, what year would each place go back to? Three maps compare where the residents come from: abroad, Tokyo or the big cities."
+        "idea": "Published: a 3D map of the census year each prefecture would return to if people moved into unused vacant homes. Adjust occupancy and compare arrivals from abroad, Tokyo or six big-city prefectures. A hypothetical scenario, not a forecast."
       }
     },
     {
@@ -364,11 +393,11 @@
       "date": "2026-11-09",
       "theme": "Urban-rural",
       "meaning": "都市、または農村。都市と田園。",
-      "idea": "パラグアイ、街から農地、そして森へ。ある年の断面で、アスンシオンから離れるにつれて街、農地、森と移り変わる様子を、人口密度と土地被覆で描く。",
+      "idea": "パラグアイのYguazú地区を対象に、2022年国勢調査の都市・農村区分を2色で描き、それぞれの人口を示す。INEの統計用境界と人口表を利用し、GeoParquet化を検討。農村人口の比率を面積比率と混同しない。",
       "projects": [],
       "en": {
         "meaning": "Urban or rural. Cities and countryside.",
-        "idea": "Paraguay from city to farmland to forest: a single-year cross-section moving out from Asunción, using population density and land cover."
+        "idea": "Map urban and rural census areas in Yguazú, Paraguay in two colors, with their 2022 populations. Use INE census cartography and population tables; consider GeoParquet. Keep population shares distinct from land-area shares."
       }
     },
     {
@@ -376,11 +405,11 @@
       "date": "2026-11-10",
       "theme": "Prompting only",
       "meaning": "チャット画面かコマンドラインで、AIに最初から最後まで地図を作らせる。",
-      "idea": "",
+      "idea": "AIとの対話と地図の変化を振り返る作品。各工程の同一サイズの画面キャプチャをZarrのstep×height×width×RGBA配列に保存し、対話ログJSONとstep IDで結ぶ。タイムラインで試行錯誤を再生する。地図の題材は未定。",
       "projects": [],
       "en": {
         "meaning": "Make AI produce a map from start to finish in a chat window or on the command line.",
-        "idea": ""
+        "idea": "Replay an AI map-making conversation and its evolving maps. Store fixed-size screenshots in a Zarr array indexed by step, height, width and RGBA, linked to a conversation-log JSON by step ID. The map subject is still undecided."
       }
     },
     {
