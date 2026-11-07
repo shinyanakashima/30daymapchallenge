@@ -680,7 +680,30 @@
       "theme": "Light & dark",
       "meaning": "見た目の効果で遊ぶ。光と影だけで何が地図にできるか。",
       "idea": "日高山脈の影の時計。日付と時刻から太陽の位置を計算し、日高山脈の影が十勝平野へ伸びる様子を描く。冬至の夕方、山のせいで日没が何分早く来るかを地点ごとに示す。",
-      "projects": [],
+      "projects": [
+        {
+          "id": "hidaka-shadow",
+          "title": "日高山脈の影の時計",
+          "description": "本物の太陽の位置で、日高山脈の影が十勝平野へ伸びる様子を描く。冬至の夕方、山のせいで日没が何分早く来るかを示す。",
+          "status": "building",
+          "thumbnail": null,
+          "thumbnailAlt": null,
+          "appUrl": null,
+          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day17-hidaka-shadow",
+          "articleUrl": null,
+          "videoUrl": null,
+          "tags": [],
+          "publishedAt": null,
+          "updatedAt": "2026-11-07",
+          "verifiedAt": "2026-11-07",
+          "en": {
+            "title": "The Hidaka shadow clock",
+            "description": "The real sun casts the Hidaka Mountains’ shadow across the Tokachi plain, showing how many minutes earlier the sun sets behind them on the winter solstice.",
+            "tags": [],
+            "thumbnailAlt": null
+          }
+        }
+      ],
       "en": {
         "meaning": "Play with visual effects. What can you map with just light and shadows?",
         "idea": "A shadow clock for the Hidaka Mountains: the sun's real position casts the range's shadow across the Tokachi plain, showing how many minutes earlier the sun sets behind the mountains on the winter solstice."
@@ -692,7 +715,30 @@
       "theme": "NULL",
       "meaning": "公式の説明はなし。",
       "idea": "星で描く地図。夜の明かりが少ない場所ほど星を多く描き、光のない場所に現れる夜空を地図にする。星の数は目安。",
-      "projects": [],
+      "projects": [
+        {
+          "id": "stars",
+          "title": "光がない場所に、星が現れる",
+          "description": "夜の明かりが少ない場所ほど星を多く描き、日本を星だけで描く。",
+          "status": "building",
+          "thumbnail": null,
+          "thumbnailAlt": null,
+          "appUrl": null,
+          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day18-stars",
+          "articleUrl": null,
+          "videoUrl": null,
+          "tags": [],
+          "publishedAt": null,
+          "updatedAt": "2026-11-07",
+          "verifiedAt": "2026-11-07",
+          "en": {
+            "title": "Where the light is null, the stars appear.",
+            "description": "Japan drawn only with stars: the fewer night lights a place has, the more stars appear.",
+            "tags": [],
+            "thumbnailAlt": null
+          }
+        }
+      ],
       "en": {
         "meaning": "No description.",
         "idea": "A map drawn with stars: the fewer night lights a place has, the more stars are drawn there. Star counts are approximate."
@@ -812,7 +858,30 @@
       "theme": "Senses: Feeling",
       "meaning": "五感シリーズでいちばん抽象的なお題。感じることをどう地図にするか。",
       "idea": "影になる道。札幌の中心部で、冬至の1日に建物の影で日が当たらない道を、3D 都市モデル（PLATEAU）から計算する。日の当たらない道は凍りやすく、足の裏で感じる「つるつる」を地図にする。",
-      "projects": [],
+      "projects": [
+        {
+          "id": "slippery-streets",
+          "title": "つるつるの道は、影の中に",
+          "description": "札幌の中心部で、冬至の1日に建物の影で日が当たらない道を、3D 都市モデルから計算する。",
+          "status": "building",
+          "thumbnail": null,
+          "thumbnailAlt": null,
+          "appUrl": null,
+          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day28-slippery-streets",
+          "articleUrl": null,
+          "videoUrl": null,
+          "tags": [],
+          "publishedAt": null,
+          "updatedAt": "2026-11-07",
+          "verifiedAt": "2026-11-07",
+          "en": {
+            "title": "Where the road feels slippery",
+            "description": "Streets in central Sapporo that get no sun on the winter solstice, calculated from 3D building data.",
+            "tags": [],
+            "thumbnailAlt": null
+          }
+        }
+      ],
       "en": {
         "meaning": "The most abstract of the senses series. How would you map a feeling?",
         "idea": "Where the road feels slippery: using PLATEAU 3D building data, find the streets in central Sapporo that get no sun on the winter solstice. Roads that stay in shadow stay icy."
