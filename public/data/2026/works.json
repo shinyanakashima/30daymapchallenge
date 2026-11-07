@@ -650,11 +650,11 @@
       "date": "2026-11-28",
       "theme": "Senses: Feeling",
       "meaning": "五感シリーズでいちばん抽象的なお題。感じることをどう地図にするか。",
-      "idea": "",
+      "idea": "影になる道。札幌の中心部で、冬至の1日に建物の影で日が当たらない道を、3D 都市モデル（PLATEAU）から計算する。日の当たらない道は凍りやすく、足の裏で感じる「つるつる」を地図にする。",
       "projects": [],
       "en": {
         "meaning": "The most abstract of the senses series. How would you map a feeling?",
-        "idea": ""
+        "idea": "Where the road feels slippery: using PLATEAU 3D building data, find the streets in central Sapporo that get no sun on the winter solstice. Roads that stay in shadow stay icy."
       }
     },
     {
