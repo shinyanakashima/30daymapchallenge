@@ -773,11 +773,11 @@
       "date": "2026-11-21",
       "theme": "OpenStreetMap",
       "meaning": "OpenStreetMap のデータで地図を作る。OSM を編集してもよい。",
-      "idea": "",
+      "idea": "十勝の地図は、いつ、誰が描いたか。OpenStreetMap の編集履歴から、十勝の道路や建物が年ごとに描き足されていく様子をアニメーションで見せる。",
       "projects": [],
       "en": {
         "meaning": "Make a map with OpenStreetMap data, or edit OSM.",
-        "idea": ""
+        "idea": "Who mapped Tokachi? Using OpenStreetMap's edit history, an animation shows roads and buildings being added to the map of Tokachi year by year."
       }
     },
     {
