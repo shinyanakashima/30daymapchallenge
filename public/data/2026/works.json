@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "updatedAt": "2026-11-06",
+  "updatedAt": "2026-11-07",
   "days": [
     {
       "day": 1,
@@ -394,7 +394,30 @@
       "theme": "Urban-rural",
       "meaning": "都市、または農村。都市と田園。",
       "idea": "パラグアイの Yguazú 地区について、2022年国勢調査の都市・農村の区分を2色で描き、それぞれの人口を示す。INE の統計用の境界と人口表を使い、人口の割合と面積の割合を分けて示す。",
-      "projects": [],
+      "projects": [
+        {
+          "id": "campo-ciudad",
+          "title": "Yguazú の都市と農村",
+          "description": "パラグアイの Yguazú 地区を、2022年国勢調査の都市・農村の区分で2色に塗り分け、それぞれの人口を示す。",
+          "status": "building",
+          "thumbnail": null,
+          "thumbnailAlt": null,
+          "appUrl": null,
+          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day9-campo-ciudad",
+          "articleUrl": null,
+          "videoUrl": null,
+          "tags": [],
+          "publishedAt": null,
+          "updatedAt": "2026-11-07",
+          "verifiedAt": "2026-11-07",
+          "en": {
+            "title": "Urban and Rural in Yguazú",
+            "description": "Yguazú, Paraguay in two colors, urban and rural census areas, with their 2022 populations.",
+            "tags": [],
+            "thumbnailAlt": null
+          }
+        }
+      ],
       "en": {
         "meaning": "Urban or rural. Cities and countryside.",
         "idea": "Map urban and rural census areas in Yguazú, Paraguay in two colors with their 2022 populations, using INE census cartography and population tables. Population shares are shown separately from land-area shares."
@@ -406,7 +429,30 @@
       "theme": "Prompting only",
       "meaning": "チャット画面かコマンドラインで、AIに最初から最後まで地図を作らせる。",
       "idea": "AI との対話と、それに合わせて変わっていく地図を振り返る作品。工程ごとの画面を Zarr 配列に保存し、対話ログと結んでタイムラインで再生する。",
-      "projects": [],
+      "projects": [
+        {
+          "id": "agent-journal",
+          "title": "Map Rewind",
+          "description": "AI との対話と、それに合わせて変わっていく地図を、タイムラインで振り返る。",
+          "status": "building",
+          "thumbnail": null,
+          "thumbnailAlt": null,
+          "appUrl": null,
+          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day10-agent-journal",
+          "articleUrl": null,
+          "videoUrl": null,
+          "tags": [],
+          "publishedAt": null,
+          "updatedAt": "2026-11-07",
+          "verifiedAt": "2026-11-07",
+          "en": {
+            "title": "Map Rewind",
+            "description": "Replay an AI map-making conversation alongside the map as it changes.",
+            "tags": [],
+            "thumbnailAlt": null
+          }
+        }
+      ],
       "en": {
         "meaning": "Make AI produce a map from start to finish in a chat window or on the command line.",
         "idea": "Replay an AI map-making conversation alongside the map as it changes. Screens from each step are stored in a Zarr array, linked to the conversation log and played back on a timeline."
@@ -418,7 +464,30 @@
       "theme": "Senses: Sound",
       "meaning": "音をどう聞くか。音風景や騒音を地図にする。",
       "idea": "日本の音風景100選の暦。1996年に環境庁が選んだ100の音を地図に置き、月ごとに聞ける音を切り替えて、季節とともに移る日本の音を見せる。",
-      "projects": [],
+      "projects": [
+        {
+          "id": "100soundscapes",
+          "title": "日本の音風景100選 音の暦",
+          "description": "1996年に選ばれた100の音を地図に置き、月ごとに聞ける音を切り替える。",
+          "status": "building",
+          "thumbnail": null,
+          "thumbnailAlt": null,
+          "appUrl": null,
+          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day11-100soundscapes",
+          "articleUrl": null,
+          "videoUrl": null,
+          "tags": [],
+          "publishedAt": null,
+          "updatedAt": "2026-11-07",
+          "verifiedAt": "2026-11-07",
+          "en": {
+            "title": "The 100 Soundscapes of Japan: a sound calendar",
+            "description": "The 100 Soundscapes of Japan on a map. Switch months to see which sounds can be heard where.",
+            "tags": [],
+            "thumbnailAlt": null
+          }
+        }
+      ],
       "en": {
         "meaning": "How do you hear something? Map a soundscape, or noise pollution.",
         "idea": "A calendar of the 100 Soundscapes of Japan, selected in 1996. Switch months to see which sounds can be heard where, as they move with the seasons."
@@ -430,7 +499,30 @@
       "theme": "Power",
       "meaning": "原子力のような電力、体の力、影響力、送電網。自由に解釈してよい。",
       "idea": "50Hz と 60Hz が出会う場所。東西で周波数が分かれる日本と、1つのダムで50Hz と 60Hz を発電するパラグアイのイタイプ・ダムを、波の模様で塗った地図で描く2作品。",
-      "projects": [],
+      "projects": [
+        {
+          "id": "50hz60hz",
+          "title": "50Hz と 60Hz が出会う場所",
+          "description": "1つのダムで2つの周波数を作るパラグアイと、東西で周波数が分かれる日本を、波の模様で塗った地図で描く。",
+          "status": "building",
+          "thumbnail": null,
+          "thumbnailAlt": null,
+          "appUrl": null,
+          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day12-50Hz60Hz",
+          "articleUrl": null,
+          "videoUrl": null,
+          "tags": [],
+          "publishedAt": null,
+          "updatedAt": "2026-11-07",
+          "verifiedAt": "2026-11-07",
+          "en": {
+            "title": "Where 50 Hz meets 60 Hz",
+            "description": "Paraguay, where one dam generates two frequencies, and Japan, split between east and west, drawn with wave patterns.",
+            "tags": [],
+            "thumbnailAlt": null
+          }
+        }
+      ],
       "en": {
         "meaning": "Nuclear power, physical power, influence or a power grid. Read it the way you want.",
         "idea": "Where 50 Hz meets 60 Hz: two maps filled with wave patterns, one of Japan's east–west frequency divide and one of Paraguay's Itaipu Dam, which generates at both 50 Hz and 60 Hz."
@@ -483,7 +575,30 @@
       "theme": "Borgesian map",
       "meaning": "細かすぎて領土そのものになる地図。ボルヘス「学問の厳密さについて」から。",
       "idea": "地図が先に来た場所。明治時代に入植前の十勝の原野へ机の上で引かれた300間（約546m）の碁盤目が、今の道と畑になっている様子を、航空写真と計画どおりの格子を重ねて見せる。",
-      "projects": [],
+      "projects": [
+        {
+          "id": "tokachi-grid",
+          "title": "地図が先に来た場所",
+          "description": "入植前の十勝の原野に机の上で引かれた300間（約546m）の碁盤目が、今の道と畑になっている様子を見せる。",
+          "status": "building",
+          "thumbnail": null,
+          "thumbnailAlt": null,
+          "appUrl": null,
+          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day14-tokachi-grid",
+          "articleUrl": null,
+          "videoUrl": null,
+          "tags": [],
+          "publishedAt": null,
+          "updatedAt": "2026-11-07",
+          "verifiedAt": "2026-11-07",
+          "en": {
+            "title": "Where the map came first",
+            "description": "A 546 m grid drawn on paper before settlers arrived in Tokachi, and the roads and fields that grew along it.",
+            "tags": [],
+            "thumbnailAlt": null
+          }
+        }
+      ],
       "en": {
         "meaning": "A map so detailed it becomes the territory. Inspired by Borges' On Exactitude in Science.",
         "idea": "Where the map came first: in Tokachi, a 546 m grid was drawn on paper before settlers arrived in the 1880s and 1890s. Aerial imagery and the planned grid show how the land grew into the shape of the map."
@@ -495,7 +610,30 @@
       "theme": "Inside out",
       "meaning": "裏返し、逆さま。どこかがおかしい地図。",
       "idea": "あなたの町が、世界の果てになる地図。選んだ場所のちょうど地球の裏側を中心にステレオ図法で世界を描き直し、その場所を世界の外周へ裏返す。",
-      "projects": [],
+      "projects": [
+        {
+          "id": "edge-of-the-world",
+          "title": "あなたの町が、世界の果てになる",
+          "description": "選んだ場所の地球の裏側を中心にステレオ図法で世界を描き直し、その場所を世界の外周へ裏返す。",
+          "status": "building",
+          "thumbnail": null,
+          "thumbnailAlt": null,
+          "appUrl": null,
+          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day15-edge-of-the-world-",
+          "articleUrl": null,
+          "videoUrl": null,
+          "tags": [],
+          "publishedAt": null,
+          "updatedAt": "2026-11-07",
+          "verifiedAt": "2026-11-07",
+          "en": {
+            "title": "Your town, the edge of the world",
+            "description": "A stereographic map centred on the opposite side of the Earth, turning your town into the rim of the world.",
+            "tags": [],
+            "thumbnailAlt": null
+          }
+        }
+      ],
       "en": {
         "meaning": "Inside out, upside down. Something on this map is not quite right.",
         "idea": "Your town, the edge of the world: a stereographic map centred on the exact opposite side of the Earth from a chosen place, turning that place inside out into the rim of the world."
@@ -507,7 +645,30 @@
       "theme": "Collaborative map",
       "meaning": "友人、同僚、知らない人と一緒に作る地図。AIは数えない。",
       "idea": "このページを開いたあなたは、共同制作者です。アクセスした人の国・地域を IP アドレスからの推定で数え、見に来た人みんなで1枚の地図を作る。AI の巡回プログラムは「友人に数えない」層として別に見せる。",
-      "projects": [],
+      "projects": [
+        {
+          "id": "you-were-here",
+          "title": "あなたも、ここにいました",
+          "description": "このページを開いた人の国・地域を数え、見に来た人みんなで1枚の地図を作る。AI の巡回プログラムは友人に数えない。",
+          "status": "building",
+          "thumbnail": null,
+          "thumbnailAlt": null,
+          "appUrl": null,
+          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day16-you-were-here",
+          "articleUrl": null,
+          "videoUrl": null,
+          "tags": [],
+          "publishedAt": null,
+          "updatedAt": "2026-11-07",
+          "verifiedAt": "2026-11-07",
+          "en": {
+            "title": "You were here.",
+            "description": "Everyone who opens the page is counted by country and region, building one map together. AI crawlers do not count as friends.",
+            "tags": [],
+            "thumbnailAlt": null
+          }
+        }
+      ],
       "en": {
         "meaning": "Make a map with a friend, colleague or stranger. AI doesn't count.",
         "idea": "By opening this page, you become a co-author: visits are counted by country and region estimated from IP addresses, building one map together. AI crawlers appear on a separate layer, because AI doesn't count as a friend."
