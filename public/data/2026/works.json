@@ -785,11 +785,11 @@
       "date": "2026-11-22",
       "theme": "Projections",
       "meaning": "球体を平面に表すさまざまな方法。",
-      "idea": "",
+      "idea": "日本は19枚の平らな地図でできている。測量で使う平面直角座標系の19の区域を描き、平らな地図が本当の距離を示す38本の線と、それ以外の場所での距離のずれを見せる。",
       "projects": [],
       "en": {
         "meaning": "The different ways of representing a globe on a flat surface.",
-        "idea": ""
+        "idea": "Japan is made of 19 flat maps: the 19 zones of the Japan Plane Rectangular Coordinate System used in surveying, the 38 lines where the flat map gives true distance, and how far distances drift everywhere else."
       }
     },
     {
