@@ -832,11 +832,11 @@
       "date": "2026-11-24",
       "theme": "Network",
       "meaning": "道路網、交通網、人のつながり、またはまったく別のネットワーク。",
-      "idea": "空き家でつながる日本。掲載物件の特徴が似た自治体どうしを線で結ぶ。",
+      "idea": "北海道の道の駅を、一筆書きで。北海道のすべての道の駅を、実際の道路で1回ずつ回る最短ルートを計算し、総距離と日数を見せる。",
       "projects": [],
       "en": {
         "meaning": "Route network, transit network, human network or something completely different.",
-        "idea": "Japan connected by vacant homes: link municipalities whose listings look alike."
+        "idea": "Every roadside station in Hokkaido, in one drive: the shortest road route that visits all of Hokkaido's Michi-no-Eki once, with its total distance and driving days."
       }
     },
     {
