@@ -844,11 +844,11 @@
       "date": "2026-11-25",
       "theme": "Is this a map?",
       "meaning": "地図とアートやデータ表現を混ぜる。どこから地図で、どこまでが地図か。",
-      "idea": "自治体を緯度経度ではなく、空き家の特徴の近さで並べる。地理の地図と切り替えて「近さ」を考える。",
+      "idea": "時間で測った北海道。地図の単位を km から移動時間に取り替えた距離カルトグラムで、夏と冬で北海道の形がどう変わるか、どこで地図でなくなるかを見せる。",
       "projects": [],
       "en": {
         "meaning": "Blend your map with artwork or creative data visualization. When does something become a map, and when does it stop being one?",
-        "idea": "Place municipalities by how similar their vacant-home listings are instead of by location, and switch back to the geographic map."
+        "idea": "Hokkaido measured in time: a distance cartogram that swaps the map's unit from kilometres to travel time, showing how Hokkaido changes shape between summer and winter, and where it stops being a map."
       }
     },
     {
