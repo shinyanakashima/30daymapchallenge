@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-12",
   "days": [
     {
       "day": 1,
@@ -868,11 +868,34 @@
       "date": "2026-11-27",
       "theme": "New tool",
       "meaning": "新しいツールを地図づくりに取り入れる。",
-      "idea": "空き家データを Parquet にして、DuckDB-Wasm でブラウザ上で検索・可視化する。",
-      "projects": [],
+      "idea": "読む前に、AIがファイルを選ぶ。属性で分けた GeoParquet の目録を判断特化型の AI モデル Jev で評価し、関係しそうなファイルだけを DuckDB で読んで地物を判定する過程を地図で見せる。FOSS4G Hokkaido 2026 の登壇と同じ検証。",
+      "projects": [
+        {
+          "id": "jev-geoparquet",
+          "title": "読む前に、AIがファイルを選ぶ",
+          "description": "判断特化型の AI モデル Jev が、属性で分けた GeoParquet のうち読むべきファイルを選び、その結果を地図で見せる。",
+          "status": "building",
+          "thumbnail": null,
+          "thumbnailAlt": null,
+          "appUrl": null,
+          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day27-jev-geoparquet",
+          "articleUrl": null,
+          "videoUrl": null,
+          "tags": [],
+          "publishedAt": null,
+          "updatedAt": "2026-11-12",
+          "verifiedAt": "2026-11-12",
+          "en": {
+            "title": "Before reading, the AI picks the files",
+            "description": "The decision model Jev picks which category-split GeoParquet files to read, and the map shows what was read and what was found.",
+            "tags": [],
+            "thumbnailAlt": null
+          }
+        }
+      ],
       "en": {
         "meaning": "Try out a new tool in your mapmaking workflow.",
-        "idea": "Convert vacant-home data to Parquet and query it in the browser with DuckDB-Wasm."
+        "idea": "Before reading, the AI picks the files: the decision model Jev reviews a catalogue of GeoParquet files split by category, DuckDB reads only the relevant ones, and the map shows what was read and what was found. The same experiment as the FOSS4G Hokkaido 2026 talk."
       }
     },
     {
