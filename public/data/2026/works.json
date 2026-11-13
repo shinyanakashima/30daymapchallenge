@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "updatedAt": "2026-11-12",
+  "updatedAt": "2026-11-13",
   "days": [
     {
       "day": 1,
@@ -399,22 +399,22 @@
           "id": "campo-ciudad",
           "title": "Yguazú の都市と農村",
           "description": "パラグアイの Yguazú 地区を、2022年国勢調査の都市・農村の区分で2色に塗り分け、それぞれの人口を示す。",
-          "status": "building",
-          "thumbnail": null,
-          "thumbnailAlt": null,
-          "appUrl": null,
+          "status": "published",
+          "thumbnail": "images/2026/works/campo-ciudad.jpg",
+          "thumbnailAlt": "Yguazú の都市と農村の画面",
+          "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day9-campo-ciudad/",
           "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day9-campo-ciudad",
           "articleUrl": null,
           "videoUrl": null,
           "tags": [],
           "publishedAt": null,
-          "updatedAt": "2026-11-07",
-          "verifiedAt": "2026-11-07",
+          "updatedAt": "2026-11-13",
+          "verifiedAt": "2026-11-13",
           "en": {
             "title": "Urban and Rural in Yguazú",
             "description": "Yguazú, Paraguay in two colors, urban and rural census areas, with their 2022 populations.",
             "tags": [],
-            "thumbnailAlt": null
+            "thumbnailAlt": "Screenshot of Urban and Rural in Yguazú"
           }
         }
       ],
@@ -434,22 +434,22 @@
           "id": "agent-journal",
           "title": "Map Rewind",
           "description": "AI との対話と、それに合わせて変わっていく地図を、タイムラインで振り返る。",
-          "status": "building",
-          "thumbnail": null,
-          "thumbnailAlt": null,
-          "appUrl": null,
+          "status": "published",
+          "thumbnail": "images/2026/works/agent-journal.jpg",
+          "thumbnailAlt": "Map Rewindの画面",
+          "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day10-agent-journal/",
           "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day10-agent-journal",
           "articleUrl": null,
           "videoUrl": null,
           "tags": [],
           "publishedAt": null,
-          "updatedAt": "2026-11-07",
-          "verifiedAt": "2026-11-07",
+          "updatedAt": "2026-11-13",
+          "verifiedAt": "2026-11-13",
           "en": {
             "title": "Map Rewind",
             "description": "Replay an AI map-making conversation alongside the map as it changes.",
             "tags": [],
-            "thumbnailAlt": null
+            "thumbnailAlt": "Screenshot of Map Rewind"
           }
         }
       ],
@@ -469,22 +469,22 @@
           "id": "100soundscapes",
           "title": "日本の音風景100選 音の暦",
           "description": "1996年に選ばれた100の音を地図に置き、月ごとに聞ける音を切り替える。",
-          "status": "building",
-          "thumbnail": null,
-          "thumbnailAlt": null,
-          "appUrl": null,
+          "status": "published",
+          "thumbnail": "images/2026/works/100soundscapes.jpg",
+          "thumbnailAlt": "日本の音風景100選 音の暦の画面",
+          "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day11-100soundscapes/",
           "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day11-100soundscapes",
           "articleUrl": null,
           "videoUrl": null,
           "tags": [],
           "publishedAt": null,
-          "updatedAt": "2026-11-07",
-          "verifiedAt": "2026-11-07",
+          "updatedAt": "2026-11-13",
+          "verifiedAt": "2026-11-13",
           "en": {
             "title": "The 100 Soundscapes of Japan: a sound calendar",
             "description": "The 100 Soundscapes of Japan on a map. Switch months to see which sounds can be heard where.",
             "tags": [],
-            "thumbnailAlt": null
+            "thumbnailAlt": "Screenshot of The 100 Soundscapes of Japan: a sound calendar"
           }
         }
       ],
@@ -504,22 +504,22 @@
           "id": "50hz60hz",
           "title": "50Hz と 60Hz が出会う場所",
           "description": "1つのダムで2つの周波数を作るパラグアイと、東西で周波数が分かれる日本を、波の模様で塗った地図で描く。",
-          "status": "building",
-          "thumbnail": null,
-          "thumbnailAlt": null,
-          "appUrl": null,
+          "status": "published",
+          "thumbnail": "images/2026/works/50hz60hz.jpg",
+          "thumbnailAlt": "50Hz と 60Hz が出会う場所の画面",
+          "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day12-50Hz60Hz/",
           "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day12-50Hz60Hz",
           "articleUrl": null,
           "videoUrl": null,
           "tags": [],
           "publishedAt": null,
-          "updatedAt": "2026-11-07",
-          "verifiedAt": "2026-11-07",
+          "updatedAt": "2026-11-13",
+          "verifiedAt": "2026-11-13",
           "en": {
             "title": "Where 50 Hz meets 60 Hz",
             "description": "Paraguay, where one dam generates two frequencies, and Japan, split between east and west, drawn with wave patterns.",
             "tags": [],
-            "thumbnailAlt": null
+            "thumbnailAlt": "Screenshot of Where 50 Hz meets 60 Hz"
           }
         }
       ],
@@ -580,22 +580,22 @@
           "id": "tokachi-grid",
           "title": "地図が先に来た場所",
           "description": "入植前の十勝の原野に机の上で引かれた300間（約546m）の碁盤目が、今の道と畑になっている様子を見せる。",
-          "status": "building",
-          "thumbnail": null,
-          "thumbnailAlt": null,
-          "appUrl": null,
+          "status": "published",
+          "thumbnail": "images/2026/works/tokachi-grid.jpg",
+          "thumbnailAlt": "地図が先に来た場所の画面",
+          "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day14-tokachi-grid/",
           "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day14-tokachi-grid",
           "articleUrl": null,
           "videoUrl": null,
           "tags": [],
           "publishedAt": null,
-          "updatedAt": "2026-11-07",
-          "verifiedAt": "2026-11-07",
+          "updatedAt": "2026-11-13",
+          "verifiedAt": "2026-11-13",
           "en": {
             "title": "Where the map came first",
             "description": "A 546 m grid drawn on paper before settlers arrived in Tokachi, and the roads and fields that grew along it.",
             "tags": [],
-            "thumbnailAlt": null
+            "thumbnailAlt": "Screenshot of Where the map came first"
           }
         }
       ],
@@ -750,7 +750,30 @@
       "theme": "Senses: Smell",
       "meaning": "鼻で感じるものをどう地図にするか。",
       "idea": "日本のかおり風景100選の地図。2001年に環境省が選んだ100のかおりを地図に置き、Day 11 の音風景と対になる作品にする。",
-      "projects": [],
+      "projects": [
+        {
+          "id": "100fragrances",
+          "title": "日本のかおり風景100選",
+          "description": "環境省が選んだ100のかおりを地図に置き、かおりの種類ごとに見せる。Day 11 の音風景と対になる作品。",
+          "status": "building",
+          "thumbnail": null,
+          "thumbnailAlt": null,
+          "appUrl": null,
+          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day19-100fragrances",
+          "articleUrl": null,
+          "videoUrl": null,
+          "tags": [],
+          "publishedAt": null,
+          "updatedAt": "2026-11-13",
+          "verifiedAt": "2026-11-13",
+          "en": {
+            "title": "The 100 Fragrant Landscapes of Japan: a map of scents",
+            "description": "The 100 Fragrant Landscapes of Japan on a map, grouped by kind of scent. A companion to the Day 11 soundscape map.",
+            "tags": [],
+            "thumbnailAlt": null
+          }
+        }
+      ],
       "en": {
         "meaning": "How do you map things your nose can sense?",
         "idea": "A map of the 100 Fragrant Landscapes of Japan, selected in 2001, as a companion to the Day 11 soundscape map."
@@ -774,7 +797,30 @@
       "theme": "OpenStreetMap",
       "meaning": "OpenStreetMap のデータで地図を作る。OSM を編集してもよい。",
       "idea": "十勝の地図は、いつ、誰が描いたか。OpenStreetMap の編集履歴から、十勝の道路や建物が年ごとに描き足されていく様子をアニメーションで見せる。",
-      "projects": [],
+      "projects": [
+        {
+          "id": "who-mapped-tokachi",
+          "title": "十勝の地図は、誰が描いた？",
+          "description": "OpenStreetMap の編集履歴から、十勝の地図が年ごとに描き足されていく様子を見せる。",
+          "status": "building",
+          "thumbnail": null,
+          "thumbnailAlt": null,
+          "appUrl": null,
+          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day21-who-mapped-tokachi",
+          "articleUrl": null,
+          "videoUrl": null,
+          "tags": [],
+          "publishedAt": null,
+          "updatedAt": "2026-11-13",
+          "verifiedAt": "2026-11-13",
+          "en": {
+            "title": "Who mapped Tokachi?",
+            "description": "How the OpenStreetMap map of Tokachi was drawn, year by year, from its edit history.",
+            "tags": [],
+            "thumbnailAlt": null
+          }
+        }
+      ],
       "en": {
         "meaning": "Make a map with OpenStreetMap data, or edit OSM.",
         "idea": "Who mapped Tokachi? Using OpenStreetMap's edit history, an animation shows roads and buildings being added to the map of Tokachi year by year."
@@ -821,7 +867,30 @@
       "theme": "Senses: Taste",
       "meaning": "食べ物、飲み物など、味わえるもの。",
       "idea": "雪と太陽の砂糖。日本の砂糖の原料は、北の十勝・オホーツクのてん菜と、南の島々のさとうきびだけ。世界のてん菜の帯とさとうきびの帯の両方にまたがる日本で、甘さが国の両端でしか生まれないことを見せる。",
-      "projects": [],
+      "projects": [
+        {
+          "id": "snow-and-sun",
+          "title": "雪と太陽の砂糖",
+          "description": "日本の砂糖は、北のてん菜と南のさとうきびだけ。日本の甘さが国の両端でしか生まれないことを見せる。",
+          "status": "building",
+          "thumbnail": null,
+          "thumbnailAlt": null,
+          "appUrl": null,
+          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day23-snow-and-sun",
+          "articleUrl": null,
+          "videoUrl": null,
+          "tags": [],
+          "publishedAt": null,
+          "updatedAt": "2026-11-13",
+          "verifiedAt": "2026-11-13",
+          "en": {
+            "title": "Sugar from snow and sun",
+            "description": "Japan’s sugar comes only from beet in the snowy north and cane on the southern islands.",
+            "tags": [],
+            "thumbnailAlt": null
+          }
+        }
+      ],
       "en": {
         "meaning": "Food, drink or something else you can taste.",
         "idea": "Sugar from snow and sun: Japan's sugar comes only from sugar beet in the snowy north and sugar cane on the southern islands. Japan straddles both the world's beet belt and its cane belt, so its sweetness grows only at its two ends."
@@ -833,7 +902,30 @@
       "theme": "Network",
       "meaning": "道路網、交通網、人のつながり、またはまったく別のネットワーク。",
       "idea": "北海道の道の駅を、一筆書きで。北海道のすべての道の駅を、実際の道路で1回ずつ回る最短ルートを計算し、総距離と日数を見せる。",
-      "projects": [],
+      "projects": [
+        {
+          "id": "michinoeki-tour",
+          "title": "北海道の道の駅を、一筆書きで",
+          "description": "北海道のすべての道の駅を、実際の道路で1回ずつ回る最短ルートを見せる。",
+          "status": "building",
+          "thumbnail": null,
+          "thumbnailAlt": null,
+          "appUrl": null,
+          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day24-michinoeki-tour",
+          "articleUrl": null,
+          "videoUrl": null,
+          "tags": [],
+          "publishedAt": null,
+          "updatedAt": "2026-11-13",
+          "verifiedAt": "2026-11-13",
+          "en": {
+            "title": "Every roadside station in Hokkaido, in one drive",
+            "description": "The shortest road route that visits every roadside station in Hokkaido once.",
+            "tags": [],
+            "thumbnailAlt": null
+          }
+        }
+      ],
       "en": {
         "meaning": "Route network, transit network, human network or something completely different.",
         "idea": "Every roadside station in Hokkaido, in one drive: the shortest road route that visits all of Hokkaido's Michi-no-Eki once, with its total distance and driving days."
@@ -845,7 +937,30 @@
       "theme": "Is this a map?",
       "meaning": "地図とアートやデータ表現を混ぜる。どこから地図で、どこまでが地図か。",
       "idea": "時間で測った北海道。地図の単位を km から移動時間に取り替えた距離カルトグラムで、夏と冬で北海道の形がどう変わるか、どこで地図でなくなるかを見せる。",
-      "projects": [],
+      "projects": [
+        {
+          "id": "elastic-hokkaido",
+          "title": "伸び縮みする北海道",
+          "description": "地図の単位を取り替えたカルトグラムで、北海道の形がどう伸び縮みするかを見せる。",
+          "status": "building",
+          "thumbnail": null,
+          "thumbnailAlt": null,
+          "appUrl": null,
+          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day25-elastic-hokkaido",
+          "articleUrl": null,
+          "videoUrl": null,
+          "tags": [],
+          "publishedAt": null,
+          "updatedAt": "2026-11-13",
+          "verifiedAt": "2026-11-13",
+          "en": {
+            "title": "Elastic Hokkaido",
+            "description": "A cartogram that swaps the unit of the map and shows how Hokkaido stretches and shrinks.",
+            "tags": [],
+            "thumbnailAlt": null
+          }
+        }
+      ],
       "en": {
         "meaning": "Blend your map with artwork or creative data visualization. When does something become a map, and when does it stop being one?",
         "idea": "Hokkaido measured in time: a distance cartogram that swaps the map's unit from kilometres to travel time, showing how Hokkaido changes shape between summer and winter, and where it stops being a map."
@@ -857,7 +972,30 @@
       "theme": "Water",
       "meaning": "地球の表面の約71%を占める、水。",
       "idea": "水が描くパラグアイ。県境ではなく流域で国を描き直し、地図上のどこに落ちた雨粒も、パラグアイ川かパラナ川を通ってラ・プラタ川へ向かう道筋をたどれるようにする。",
-      "projects": [],
+      "projects": [
+        {
+          "id": "cuencas",
+          "title": "水が描くパラグアイ",
+          "description": "パラグアイを県境ではなく流域で描き直し、雨粒が海まで流れる道筋をたどる。",
+          "status": "building",
+          "thumbnail": null,
+          "thumbnailAlt": null,
+          "appUrl": null,
+          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day26-cuencas",
+          "articleUrl": null,
+          "videoUrl": null,
+          "tags": [],
+          "publishedAt": null,
+          "updatedAt": "2026-11-13",
+          "verifiedAt": "2026-11-13",
+          "en": {
+            "title": "Paraguay drawn by water",
+            "description": "Paraguay redrawn by watersheds instead of departments, with the path of a raindrop to the sea.",
+            "tags": [],
+            "thumbnailAlt": null
+          }
+        }
+      ],
       "en": {
         "meaning": "About 71% of the Earth's surface. Water.",
         "idea": "Paraguay drawn by water: the country redrawn by watersheds instead of departments, where a raindrop falling anywhere can be traced down the Paraguay or Paraná rivers to the Río de la Plata."
