@@ -32,4 +32,3 @@ All screenshots are of my own apps, resized to fit 800×600 and saved as JPEG. E
 
 - Noto Sans JP from Google Fonts, SIL Open Font License 1.1. The site falls back to system fonts if it doesn't load.
 - React, Vite and other npm packages are under their own licenses. Versions are in `package-lock.json`.
-
