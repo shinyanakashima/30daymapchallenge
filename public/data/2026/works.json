@@ -784,11 +784,11 @@
       "date": "2026-11-20",
       "theme": "Hexagons",
       "meaning": "六角形。",
-      "idea": "ドローンの混雑度を H3 の六角形で集計し、解像度ごとの見え方を比べる。",
+      "idea": "人より牛が多い町。北海道の179市町村を同じ大きさの六角形で並べたグリッド・カルトグラムで、人口1人あたりの乳用牛の頭数を塗り分け、牛の方が多い町を見せる。",
       "projects": [],
       "en": {
         "meaning": "Hexagons.",
-        "idea": "Aggregate drone congestion into H3 hexagons and compare how it looks at different resolutions."
+        "idea": "Where cows outnumber people: a hexagon grid cartogram of Hokkaido's 179 municipalities, coloured by dairy cows per person, showing the towns where cows outnumber residents."
       }
     },
     {
