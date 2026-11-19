@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-19",
   "days": [
     {
       "day": 1,
@@ -615,22 +615,22 @@
           "id": "edge-of-the-world",
           "title": "あなたの町が、世界の果てになる",
           "description": "選んだ場所の地球の裏側を中心にステレオ図法で世界を描き直し、その場所を世界の外周へ裏返す。",
-          "status": "building",
-          "thumbnail": null,
-          "thumbnailAlt": null,
-          "appUrl": null,
+          "status": "published",
+          "thumbnail": "images/2026/works/edge-of-the-world.jpg",
+          "thumbnailAlt": "あなたの町が、世界の果てになるの画面",
+          "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day15-edge-of-the-world-/",
           "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day15-edge-of-the-world-",
           "articleUrl": null,
           "videoUrl": null,
           "tags": [],
           "publishedAt": null,
-          "updatedAt": "2026-11-07",
-          "verifiedAt": "2026-11-07",
+          "updatedAt": "2026-11-19",
+          "verifiedAt": "2026-11-19",
           "en": {
             "title": "Your town, the edge of the world",
             "description": "A stereographic map centred on the opposite side of the Earth, turning your town into the rim of the world.",
             "tags": [],
-            "thumbnailAlt": null
+            "thumbnailAlt": "Screenshot of Your town, the edge of the world"
           }
         }
       ],
@@ -650,22 +650,22 @@
           "id": "you-were-here",
           "title": "あなたも、ここにいました",
           "description": "このページを開いた人の国・地域を数え、見に来た人みんなで1枚の地図を作る。AI の巡回プログラムは友人に数えない。",
-          "status": "building",
-          "thumbnail": null,
-          "thumbnailAlt": null,
-          "appUrl": null,
+          "status": "published",
+          "thumbnail": "images/2026/works/you-were-here.jpg",
+          "thumbnailAlt": "あなたも、ここにいましたの画面",
+          "appUrl": "https://30daymapchallenge-2026day16-you-were-here.s-nakashima.workers.dev/",
           "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day16-you-were-here",
           "articleUrl": null,
           "videoUrl": null,
           "tags": [],
           "publishedAt": null,
-          "updatedAt": "2026-11-07",
-          "verifiedAt": "2026-11-07",
+          "updatedAt": "2026-11-19",
+          "verifiedAt": "2026-11-19",
           "en": {
             "title": "You were here.",
             "description": "Everyone who opens the page is counted by country and region, building one map together. AI crawlers do not count as friends.",
             "tags": [],
-            "thumbnailAlt": null
+            "thumbnailAlt": "Screenshot of You were here."
           }
         }
       ],
@@ -685,22 +685,22 @@
           "id": "hidaka-shadow",
           "title": "日高山脈の影の時計",
           "description": "本物の太陽の位置で、日高山脈の影が十勝平野へ伸びる様子を描く。冬至の夕方、山のせいで日没が何分早く来るかを示す。",
-          "status": "building",
-          "thumbnail": null,
-          "thumbnailAlt": null,
-          "appUrl": null,
+          "status": "published",
+          "thumbnail": "images/2026/works/hidaka-shadow.jpg",
+          "thumbnailAlt": "日高山脈の影の時計の画面",
+          "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day17-hidaka-shadow/",
           "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day17-hidaka-shadow",
           "articleUrl": null,
           "videoUrl": null,
           "tags": [],
           "publishedAt": null,
-          "updatedAt": "2026-11-07",
-          "verifiedAt": "2026-11-07",
+          "updatedAt": "2026-11-19",
+          "verifiedAt": "2026-11-19",
           "en": {
             "title": "The Hidaka shadow clock",
             "description": "The real sun casts the Hidaka Mountains’ shadow across the Tokachi plain, showing how many minutes earlier the sun sets behind them on the winter solstice.",
             "tags": [],
-            "thumbnailAlt": null
+            "thumbnailAlt": "Screenshot of The Hidaka shadow clock"
           }
         }
       ],
@@ -720,22 +720,22 @@
           "id": "stars",
           "title": "光がない場所に、星が現れる",
           "description": "夜の明かりが少ない場所ほど星を多く描き、日本を星だけで描く。",
-          "status": "building",
-          "thumbnail": null,
-          "thumbnailAlt": null,
-          "appUrl": null,
+          "status": "published",
+          "thumbnail": "images/2026/works/stars.jpg",
+          "thumbnailAlt": "光がない場所に、星が現れるの画面",
+          "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day18-stars/",
           "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day18-stars",
           "articleUrl": null,
           "videoUrl": null,
           "tags": [],
           "publishedAt": null,
-          "updatedAt": "2026-11-07",
-          "verifiedAt": "2026-11-07",
+          "updatedAt": "2026-11-19",
+          "verifiedAt": "2026-11-19",
           "en": {
             "title": "Where the light is null, the stars appear.",
             "description": "Japan drawn only with stars: the fewer night lights a place has, the more stars appear.",
             "tags": [],
-            "thumbnailAlt": null
+            "thumbnailAlt": "Screenshot of Where the light is null, the stars appear."
           }
         }
       ],
@@ -755,22 +755,22 @@
           "id": "100fragrances",
           "title": "日本のかおり風景100選",
           "description": "環境省が選んだ100のかおりを地図に置き、かおりの種類ごとに見せる。Day 11 の音風景と対になる作品。",
-          "status": "building",
-          "thumbnail": null,
-          "thumbnailAlt": null,
-          "appUrl": null,
+          "status": "published",
+          "thumbnail": "images/2026/works/100fragrances.jpg",
+          "thumbnailAlt": "日本のかおり風景100選の画面",
+          "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day19-100fragrances/",
           "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day19-100fragrances",
           "articleUrl": null,
           "videoUrl": null,
           "tags": [],
           "publishedAt": null,
-          "updatedAt": "2026-11-13",
-          "verifiedAt": "2026-11-13",
+          "updatedAt": "2026-11-19",
+          "verifiedAt": "2026-11-19",
           "en": {
             "title": "The 100 Fragrant Landscapes of Japan: a map of scents",
             "description": "The 100 Fragrant Landscapes of Japan on a map, grouped by kind of scent. A companion to the Day 11 soundscape map.",
             "tags": [],
-            "thumbnailAlt": null
+            "thumbnailAlt": "Screenshot of The 100 Fragrant Landscapes of Japan: a map of scents"
           }
         }
       ],
@@ -785,7 +785,30 @@
       "theme": "Hexagons",
       "meaning": "六角形。",
       "idea": "人より牛が多い町。北海道の179市町村を同じ大きさの六角形で並べたグリッド・カルトグラムで、人口1人あたりの乳用牛の頭数を塗り分け、牛の方が多い町を見せる。",
-      "projects": [],
+      "projects": [
+        {
+          "id": "cowtown",
+          "title": "人より牛が多い町",
+          "description": "北海道の179市町村を同じ大きさの六角形で並べ、人口1人あたりの乳用牛の頭数で塗り分ける。",
+          "status": "published",
+          "thumbnail": "images/2026/works/cowtown.jpg",
+          "thumbnailAlt": "人より牛が多い町の画面",
+          "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day20-cowtown/",
+          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day20-cowtown",
+          "articleUrl": null,
+          "videoUrl": null,
+          "tags": [],
+          "publishedAt": null,
+          "updatedAt": "2026-11-19",
+          "verifiedAt": "2026-11-19",
+          "en": {
+            "title": "Where cows outnumber people",
+            "description": "Hokkaido's 179 municipalities as equal hexagons, coloured by dairy cows per person.",
+            "tags": [],
+            "thumbnailAlt": "Screenshot of Where cows outnumber people"
+          }
+        }
+      ],
       "en": {
         "meaning": "Hexagons.",
         "idea": "Where cows outnumber people: a hexagon grid cartogram of Hokkaido's 179 municipalities, coloured by dairy cows per person, showing the towns where cows outnumber residents."

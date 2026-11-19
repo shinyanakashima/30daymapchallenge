@@ -27,6 +27,12 @@ All screenshots are of my own apps, resized to fit 800×600 and saved as JPEG. E
 | `50hz60hz.jpg` | [day12-50Hz60Hz](https://github.com/shinyanakashima/30daymapchallenge-2026day12-50Hz60Hz/blob/main/docs/screenshot.png) | 2026-11-13 | Natural Earth (public domain); MLIT National Land Numerical Information N03, processed |
 | `cinema.jpg` | [day13-cinema](https://github.com/shinyanakashima/30daymapchallenge-2026day13-cinema/blob/main/public/og.png) | 2026-11-04 | Statistics Bureau of Japan, 2021 Survey on Time Use and Leisure Activities |
 | `tokachi-grid.jpg` | [day14-tokachi-grid](https://github.com/shinyanakashima/30daymapchallenge-2026day14-tokachi-grid/blob/main/docs/screenshot.png) | 2026-11-13 | GSI seamless aerial photos; © OpenStreetMap contributors (ODbL) |
+| `edge-of-the-world.jpg` | [day15-edge-of-the-world-](https://github.com/shinyanakashima/30daymapchallenge-2026day15-edge-of-the-world-/blob/main/docs/screenshot.png) | 2026-11-19 | Natural Earth (public domain) |
+| `you-were-here.jpg` | [day16-you-were-here](https://github.com/shinyanakashima/30daymapchallenge-2026day16-you-were-here/blob/main/docs/screenshot.png) | 2026-11-19 | Natural Earth (public domain) |
+| `hidaka-shadow.jpg` | [day17-hidaka-shadow](https://github.com/shinyanakashima/30daymapchallenge-2026day17-hidaka-shadow/blob/main/docs/screenshot.png) | 2026-11-19 | GSI Elevation Tiles (DEM10B) |
+| `stars.jpg` | [day18-stars](https://github.com/shinyanakashima/30daymapchallenge-2026day18-stars/blob/main/docs/screenshot.png) | 2026-11-19 | NASA Black Marble VNP46A4 (public domain); Natural Earth (public domain) |
+| `100fragrances.jpg` | [day19-100fragrances](https://github.com/shinyanakashima/30daymapchallenge-2026day19-100fragrances/blob/main/docs/screenshot.png) | 2026-11-19 | Ministry of the Environment, 100 Fragrant Landscapes of Japan; GSI Tiles (blank map); Natural Earth (public domain); Wikimedia Commons photos under the licences shown in the app |
+| `cowtown.jpg` | [day20-cowtown](https://github.com/shinyanakashima/30daymapchallenge-2026day20-cowtown/blob/main/docs/screenshot.png) | 2026-11-19 | MAFF Hokkaido Regional Agricultural Administration Office (2020 Census of Agriculture and Forestry); Statistics Bureau of Japan, 2025 Census preliminary counts; MLIT National Land Numerical Information N03, processed |
 
 ## Fonts and packages
 
