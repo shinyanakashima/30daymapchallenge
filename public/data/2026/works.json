@@ -1,6 +1,6 @@
 {
   "year": 2026,
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-25",
   "days": [
     {
       "day": 1,
@@ -825,22 +825,22 @@
           "id": "who-mapped-tokachi",
           "title": "十勝の地図は、誰が描いた？",
           "description": "OpenStreetMap の編集履歴から、十勝の地図が年ごとに描き足されていく様子を見せる。",
-          "status": "building",
-          "thumbnail": null,
-          "thumbnailAlt": null,
-          "appUrl": null,
+          "status": "published",
+          "thumbnail": "images/2026/works/who-mapped-tokachi.jpg",
+          "thumbnailAlt": "十勝の地図は、誰が描いた？の画面",
+          "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day21-who-mapped-tokachi/",
           "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day21-who-mapped-tokachi",
           "articleUrl": null,
           "videoUrl": null,
           "tags": [],
           "publishedAt": null,
-          "updatedAt": "2026-11-13",
-          "verifiedAt": "2026-11-13",
+          "updatedAt": "2026-11-25",
+          "verifiedAt": "2026-11-25",
           "en": {
             "title": "Who mapped Tokachi?",
             "description": "How the OpenStreetMap map of Tokachi was drawn, year by year, from its edit history.",
             "tags": [],
-            "thumbnailAlt": null
+            "thumbnailAlt": "Screenshot of Who mapped Tokachi?"
           }
         }
       ],
@@ -858,24 +858,24 @@
       "projects": [
         {
           "id": "plane-rectangular",
-          "title": "日本は19枚の平らな地図でできている",
+          "title": "平面直角座標系：19の系、38本の線",
           "description": "測量で使う平面直角座標系の19の区域と、平らな地図が本当の距離を示す38本の線を見せる。",
-          "status": "building",
-          "thumbnail": null,
-          "thumbnailAlt": null,
-          "appUrl": null,
+          "status": "published",
+          "thumbnail": "images/2026/works/plane-rectangular.jpg",
+          "thumbnailAlt": "平面直角座標系：19の系、38本の線の画面",
+          "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day22-plane-rectangular/",
           "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day22-plane-rectangular",
           "articleUrl": null,
           "videoUrl": null,
           "tags": [],
           "publishedAt": null,
-          "updatedAt": "2026-11-07",
-          "verifiedAt": "2026-11-07",
+          "updatedAt": "2026-11-25",
+          "verifiedAt": "2026-11-25",
           "en": {
-            "title": "Japan is made of 19 flat maps",
+            "title": "Japan Plane Rectangular CS: 19 zones, 38 lines",
             "description": "The 19 zones of the Japan Plane Rectangular Coordinate System, and the 38 lines where the flat map gives true distance.",
             "tags": [],
-            "thumbnailAlt": null
+            "thumbnailAlt": "Screenshot of Japan Plane Rectangular CS: 19 zones, 38 lines"
           }
         }
       ],
@@ -893,24 +893,24 @@
       "projects": [
         {
           "id": "snow-and-sun",
-          "title": "雪と太陽の砂糖",
+          "title": "寒い場所と暑い場所で作られる砂糖",
           "description": "日本の砂糖は、北のてん菜と南のさとうきびだけ。日本の甘さが国の両端でしか生まれないことを見せる。",
-          "status": "building",
-          "thumbnail": null,
-          "thumbnailAlt": null,
-          "appUrl": null,
+          "status": "published",
+          "thumbnail": "images/2026/works/snow-and-sun.jpg",
+          "thumbnailAlt": "寒い場所と暑い場所で作られる砂糖の画面",
+          "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day23-snow-and-sun/",
           "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day23-snow-and-sun",
           "articleUrl": null,
           "videoUrl": null,
           "tags": [],
           "publishedAt": null,
-          "updatedAt": "2026-11-13",
-          "verifiedAt": "2026-11-13",
+          "updatedAt": "2026-11-25",
+          "verifiedAt": "2026-11-25",
           "en": {
-            "title": "Sugar from snow and sun",
+            "title": "Sugar from cold places and hot places",
             "description": "Japan’s sugar comes only from beet in the snowy north and cane on the southern islands.",
             "tags": [],
-            "thumbnailAlt": null
+            "thumbnailAlt": "Screenshot of Sugar from cold places and hot places"
           }
         }
       ],
@@ -929,23 +929,23 @@
         {
           "id": "michinoeki-tour",
           "title": "北海道の道の駅を、一筆書きで",
-          "description": "北海道のすべての道の駅を、実際の道路で1回ずつ回る最短ルートを見せる。",
-          "status": "building",
-          "thumbnail": null,
-          "thumbnailAlt": null,
-          "appUrl": null,
+          "description": "北海道の128の道の駅を、実際の道路で1回ずつ回る最短ルート。全長3,925km。",
+          "status": "published",
+          "thumbnail": "images/2026/works/michinoeki-tour.jpg",
+          "thumbnailAlt": "北海道の道の駅を、一筆書きでの画面",
+          "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day24-michinoeki-tour/",
           "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day24-michinoeki-tour",
           "articleUrl": null,
           "videoUrl": null,
           "tags": [],
           "publishedAt": null,
-          "updatedAt": "2026-11-13",
-          "verifiedAt": "2026-11-13",
+          "updatedAt": "2026-11-25",
+          "verifiedAt": "2026-11-25",
           "en": {
             "title": "Every roadside station in Hokkaido, in one drive",
-            "description": "The shortest road route that visits every roadside station in Hokkaido once.",
+            "description": "The shortest road route that visits all 128 roadside stations in Hokkaido once: 3,925 km.",
             "tags": [],
-            "thumbnailAlt": null
+            "thumbnailAlt": "Screenshot of Every roadside station in Hokkaido, in one drive"
           }
         }
       ],
@@ -965,22 +965,22 @@
           "id": "elastic-hokkaido",
           "title": "伸び縮みする北海道",
           "description": "地図の単位を取り替えたカルトグラムで、北海道の形がどう伸び縮みするかを見せる。",
-          "status": "building",
-          "thumbnail": null,
-          "thumbnailAlt": null,
-          "appUrl": null,
+          "status": "published",
+          "thumbnail": "images/2026/works/elastic-hokkaido.jpg",
+          "thumbnailAlt": "伸び縮みする北海道の画面",
+          "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day25-elastic-hokkaido/",
           "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day25-elastic-hokkaido",
           "articleUrl": null,
           "videoUrl": null,
           "tags": [],
           "publishedAt": null,
-          "updatedAt": "2026-11-13",
-          "verifiedAt": "2026-11-13",
+          "updatedAt": "2026-11-25",
+          "verifiedAt": "2026-11-25",
           "en": {
             "title": "Elastic Hokkaido",
             "description": "A cartogram that swaps the unit of the map and shows how Hokkaido stretches and shrinks.",
             "tags": [],
-            "thumbnailAlt": null
+            "thumbnailAlt": "Screenshot of Elastic Hokkaido"
           }
         }
       ],
@@ -1000,22 +1000,22 @@
           "id": "cuencas",
           "title": "水が描くパラグアイ",
           "description": "パラグアイを県境ではなく流域で描き直し、雨粒が海まで流れる道筋をたどる。",
-          "status": "building",
-          "thumbnail": null,
-          "thumbnailAlt": null,
-          "appUrl": null,
+          "status": "published",
+          "thumbnail": "images/2026/works/cuencas.jpg",
+          "thumbnailAlt": "水が描くパラグアイの画面",
+          "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day26-cuencas/",
           "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day26-cuencas",
           "articleUrl": null,
           "videoUrl": null,
           "tags": [],
           "publishedAt": null,
-          "updatedAt": "2026-11-13",
-          "verifiedAt": "2026-11-13",
+          "updatedAt": "2026-11-25",
+          "verifiedAt": "2026-11-25",
           "en": {
             "title": "Paraguay drawn by water",
             "description": "Paraguay redrawn by watersheds instead of departments, with the path of a raindrop to the sea.",
             "tags": [],
-            "thumbnailAlt": null
+            "thumbnailAlt": "Screenshot of Paraguay drawn by water"
           }
         }
       ],
@@ -1035,22 +1035,22 @@
           "id": "jev-geoparquet",
           "title": "読む前に、AIがファイルを選ぶ",
           "description": "判断特化型の AI モデル Jev が、属性で分けた GeoParquet のうち読むべきファイルを選び、その結果を地図で見せる。",
-          "status": "building",
-          "thumbnail": null,
-          "thumbnailAlt": null,
-          "appUrl": null,
+          "status": "published",
+          "thumbnail": "images/2026/works/jev-geoparquet.jpg",
+          "thumbnailAlt": "読む前に、AIがファイルを選ぶの画面",
+          "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day27-jev-geoparquet/",
           "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day27-jev-geoparquet",
           "articleUrl": null,
           "videoUrl": null,
           "tags": [],
           "publishedAt": null,
-          "updatedAt": "2026-11-12",
-          "verifiedAt": "2026-11-12",
+          "updatedAt": "2026-11-25",
+          "verifiedAt": "2026-11-25",
           "en": {
             "title": "Before reading, the AI picks the files",
             "description": "The decision model Jev picks which category-split GeoParquet files to read, and the map shows what was read and what was found.",
             "tags": [],
-            "thumbnailAlt": null
+            "thumbnailAlt": "Screenshot of Before reading, the AI picks the files"
           }
         }
       ],
@@ -1070,22 +1070,22 @@
           "id": "slippery-streets",
           "title": "つるつるの道は、影の中に",
           "description": "札幌の中心部で、冬至の1日に建物の影で日が当たらない道を、3D 都市モデルから計算する。",
-          "status": "building",
-          "thumbnail": null,
-          "thumbnailAlt": null,
-          "appUrl": null,
+          "status": "published",
+          "thumbnail": "images/2026/works/slippery-streets.jpg",
+          "thumbnailAlt": "つるつるの道は、影の中にの画面",
+          "appUrl": "https://shinyanakashima.github.io/30daymapchallenge-2026day28-slippery-streets/",
           "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day28-slippery-streets",
           "articleUrl": null,
           "videoUrl": null,
           "tags": [],
           "publishedAt": null,
-          "updatedAt": "2026-11-07",
-          "verifiedAt": "2026-11-07",
+          "updatedAt": "2026-11-25",
+          "verifiedAt": "2026-11-25",
           "en": {
             "title": "Where the road feels slippery",
             "description": "Streets in central Sapporo that get no sun on the winter solstice, calculated from 3D building data.",
             "tags": [],
-            "thumbnailAlt": null
+            "thumbnailAlt": "Screenshot of Where the road feels slippery"
           }
         }
       ],
