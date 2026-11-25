@@ -1052,6 +1052,28 @@
             "tags": [],
             "thumbnailAlt": "Screenshot of Before reading, the AI picks the files"
           }
+        },
+        {
+          "id": "jev-hyparquet",
+          "title": "Jev × Hyparquet",
+          "description": "ブラウザの中で Parquet を読む Hyparquet と、判断特化型の AI モデル Jev を組み合わせる。",
+          "status": "building",
+          "thumbnail": null,
+          "thumbnailAlt": null,
+          "appUrl": null,
+          "repoUrl": "https://github.com/shinyanakashima/30daymapchallenge-2026day27-jev-hyparquet",
+          "articleUrl": null,
+          "videoUrl": null,
+          "tags": [],
+          "publishedAt": null,
+          "updatedAt": "2026-11-25",
+          "verifiedAt": "2026-11-25",
+          "en": {
+            "title": "Jev × Hyparquet",
+            "description": "Combining Hyparquet, which reads Parquet files in the browser, with the decision model Jev.",
+            "tags": [],
+            "thumbnailAlt": null
+          }
         }
       ],
       "en": {
