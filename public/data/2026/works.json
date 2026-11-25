@@ -1056,7 +1056,7 @@
         {
           "id": "jev-hyparquet",
           "title": "Jev × Hyparquet",
-          "description": "ブラウザの中で Parquet を読む Hyparquet と、判断特化型の AI モデル Jev を組み合わせる。",
+          "description": "ブラウザの中で Parquet を読む Hyparquet と、判断特化型の AI モデル Jev を組み合わせる。手元のパソコンで動かす作品。",
           "status": "building",
           "thumbnail": null,
           "thumbnailAlt": null,
@@ -1070,7 +1070,7 @@
           "verifiedAt": "2026-11-25",
           "en": {
             "title": "Jev × Hyparquet",
-            "description": "Combining Hyparquet, which reads Parquet files in the browser, with the decision model Jev.",
+            "description": "Combining Hyparquet, which reads Parquet files in the browser, with the decision model Jev. Runs locally on your own machine.",
             "tags": [],
             "thumbnailAlt": null
           }
